@@ -2968,5 +2968,804 @@ window.TOKYO_DATA = {
       "note": "예약 매우 어려움",
       "query": "Den, Tokyo, Japan"
     }
+  ],
+  "hotels": [
+    {
+      "area": "신주쿠",
+      "name": "호텔 선루트 플라자 신주쿠",
+      "priority": "첫 여행 추천",
+      "desc": "신주쿠역 남쪽 출구권의 대표적인 실속형 호텔. 공항 리무진과 도심 이동을 함께 챙기기 좋습니다.",
+      "tags": [
+        "중급",
+        "교통편리",
+        "첫여행"
+      ],
+      "bestFor": "신주쿠 중심 일정",
+      "note": "객실 타입별 크기 차이 확인",
+      "query": "Hotel Sunroute Plaza Shinjuku, 2-3-1 Yoyogi, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "신주쿠",
+      "name": "JR 큐슈 호텔 블라섬 신주쿠",
+      "priority": "추천 빈도 높음",
+      "desc": "신주쿠역 접근성과 깔끔한 객실 밸런스로 자유여행객에게 꾸준히 언급되는 숙소입니다.",
+      "tags": [
+        "중급",
+        "역세권",
+        "깔끔함"
+      ],
+      "bestFor": "교통 중심 여행",
+      "query": "JR Kyushu Hotel Blossom Shinjuku, 2-6-2 Yoyogi, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "신주쿠",
+      "name": "게이오 플라자 호텔 도쿄",
+      "priority": "스테디셀러",
+      "desc": "니시신주쿠 고층 호텔의 대표격. 객실 선택 폭과 교통, 가족 여행 편의성이 강점입니다.",
+      "tags": [
+        "고급",
+        "가족",
+        "공항버스"
+      ],
+      "bestFor": "가족·첫 여행",
+      "query": "Keio Plaza Hotel Tokyo, 2-2-1 Nishi-Shinjuku, Shinjuku City, Tokyo, Japan"
+    },
+    {
+      "area": "신주쿠",
+      "name": "오다큐 호텔 센츄리 서던 타워",
+      "priority": "전망 추천",
+      "desc": "신주쿠 남쪽의 비교적 차분한 입지와 도심 전망으로 자주 추천되는 호텔입니다.",
+      "tags": [
+        "고급",
+        "전망",
+        "역세권"
+      ],
+      "bestFor": "커플·야경",
+      "query": "Odakyu Hotel Century Southern Tower, 2-2-1 Yoyogi, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "신주쿠",
+      "name": "호텔 그레이서리 신주쿠",
+      "priority": "인기 숙소",
+      "desc": "가부키초 중심과 고질라 헤드로 유명하며 밤 일정이 많은 여행자에게 편리합니다.",
+      "tags": [
+        "중급",
+        "가부키초",
+        "야간동선"
+      ],
+      "bestFor": "맛집·야간 일정",
+      "note": "주변이 늦은 밤까지 붐빔",
+      "query": "Hotel Gracery Shinjuku, 1-19-1 Kabukicho, Shinjuku City, Tokyo, Japan"
+    },
+    {
+      "area": "신주쿠",
+      "name": "킴튼 신주쿠 도쿄",
+      "priority": "럭셔리 추천",
+      "desc": "디자인과 서비스, 서신주쿠의 비교적 차분한 분위기를 선호할 때 선택하기 좋은 럭셔리 호텔입니다.",
+      "tags": [
+        "럭셔리",
+        "디자인",
+        "커플"
+      ],
+      "bestFor": "기념 여행",
+      "query": "Kimpton Shinjuku Tokyo, 3-4-7 Nishi-Shinjuku, Shinjuku City, Tokyo, Japan"
+    },
+    {
+      "area": "시부야",
+      "name": "시부야 엑셀 호텔 도큐",
+      "priority": "첫 여행 추천",
+      "desc": "시부야역과 바로 연결되는 수준의 접근성이 강점인 대표 숙소입니다.",
+      "tags": [
+        "중급",
+        "역세권",
+        "시부야뷰"
+      ],
+      "bestFor": "짧은 일정·쇼핑",
+      "query": "Shibuya Excel Hotel Tokyu, 1-12-2 Dogenzaka, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "시부야",
+      "name": "시부야 스트림 호텔",
+      "priority": "인기 숙소",
+      "desc": "시부야 스트림 복합시설과 연결돼 식사와 이동이 편리하고 비교적 현대적인 객실을 갖췄습니다.",
+      "tags": [
+        "고급",
+        "역세권",
+        "모던"
+      ],
+      "bestFor": "쇼핑·맛집",
+      "query": "Shibuya Stream Hotel, 3-21-3 Shibuya, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "시부야",
+      "name": "sequence MIYASHITA PARK",
+      "priority": "감성 숙소",
+      "desc": "미야시타파크와 붙어 있어 시부야·하라주쿠 산책 동선이 뛰어난 라이프스타일 호텔입니다.",
+      "tags": [
+        "중급",
+        "디자인",
+        "쇼핑"
+      ],
+      "bestFor": "20~30대·쇼핑",
+      "query": "sequence MIYASHITA PARK, 6-20-10 Jingumae, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "시부야",
+      "name": "세룰리안 타워 도큐 호텔",
+      "priority": "전망 추천",
+      "desc": "시부야 고층 전망과 넓은 편의 객실을 원하는 여행자에게 오래 사랑받는 호텔입니다.",
+      "tags": [
+        "럭셔리",
+        "전망",
+        "커플"
+      ],
+      "bestFor": "야경·기념 여행",
+      "query": "Cerulean Tower Tokyu Hotel, 26-1 Sakuragaokacho, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "시부야",
+      "name": "호텔 인디고 도쿄 시부야",
+      "priority": "럭셔리 추천",
+      "desc": "시부야 중심의 젊은 분위기와 디자인을 강조한 IHG 계열 부티크 호텔입니다.",
+      "tags": [
+        "럭셔리",
+        "디자인",
+        "쇼핑"
+      ],
+      "bestFor": "커플·트렌드 여행",
+      "query": "Hotel Indigo Tokyo Shibuya, 2-25-12 Dogenzaka, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "시부야",
+      "name": "all day place shibuya",
+      "priority": "감성 추천",
+      "desc": "미니멀한 분위기와 시부야·미야시타파크 접근성으로 자주 언급되는 라이프스타일 숙소입니다.",
+      "tags": [
+        "중급",
+        "감성",
+        "카페"
+      ],
+      "bestFor": "가벼운 도심 여행",
+      "query": "all day place shibuya, 1-17-1 Shibuya, Shibuya City, Tokyo, Japan"
+    },
+    {
+      "area": "도쿄역·마루노우치",
+      "name": "도쿄 스테이션 호텔",
+      "priority": "대표 럭셔리",
+      "desc": "도쿄역 마루노우치 역사 안에 위치하는 상징적인 호텔로 교통과 분위기를 모두 중시할 때 강력한 선택지입니다.",
+      "tags": [
+        "럭셔리",
+        "역직결",
+        "클래식"
+      ],
+      "bestFor": "기념 여행·신칸센",
+      "query": "The Tokyo Station Hotel, 1-9-1 Marunouchi, Chiyoda City, Tokyo, Japan"
+    },
+    {
+      "area": "도쿄역·마루노우치",
+      "name": "호텔 메트로폴리탄 마루노우치",
+      "priority": "교통 추천",
+      "desc": "도쿄역 니혼바시 출구와 가깝고 철도 이동이 많은 일정에 특히 편리합니다.",
+      "tags": [
+        "고급",
+        "역세권",
+        "전망"
+      ],
+      "bestFor": "신칸센·비즈니스",
+      "query": "Hotel Metropolitan Tokyo Marunouchi, 1-7-12 Marunouchi, Chiyoda City, Tokyo, Japan"
+    },
+    {
+      "area": "도쿄역·마루노우치",
+      "name": "미츠이 가든 호텔 교바시",
+      "priority": "실속 추천",
+      "desc": "도쿄역과 긴자 사이 동선을 잡기 좋은 중상급 비즈니스 호텔입니다.",
+      "tags": [
+        "중급",
+        "교통편리",
+        "실속"
+      ],
+      "bestFor": "도쿄역·긴자 동시 이용",
+      "query": "Mitsui Garden Hotel Kyobashi, 1-3-6 Kyobashi, Chuo City, Tokyo, Japan"
+    },
+    {
+      "area": "긴자",
+      "name": "MUJI HOTEL GINZA",
+      "priority": "디자인 추천",
+      "desc": "무인양품 감성을 숙박 경험으로 연결한 대표 디자인 호텔로 긴자 쇼핑 동선이 좋습니다.",
+      "tags": [
+        "고급",
+        "디자인",
+        "쇼핑"
+      ],
+      "bestFor": "쇼핑·디자인",
+      "query": "MUJI HOTEL GINZA, 3-3-5 Ginza, Chuo City, Tokyo, Japan"
+    },
+    {
+      "area": "긴자",
+      "name": "하얏트 센트릭 긴자 도쿄",
+      "priority": "럭셔리 추천",
+      "desc": "긴자 중심부의 세련된 부티크형 럭셔리 호텔로 쇼핑과 미식 일정에 잘 맞습니다.",
+      "tags": [
+        "럭셔리",
+        "긴자",
+        "미식"
+      ],
+      "bestFor": "커플·쇼핑",
+      "query": "Hyatt Centric Ginza Tokyo, 6-6-7 Ginza, Chuo City, Tokyo, Japan"
+    },
+    {
+      "area": "긴자",
+      "name": "더 로열 파크 캔버스 긴자 8",
+      "priority": "감성 추천",
+      "desc": "긴자 중심의 디자인 숙소로 라운지와 주변 식음 동선이 편리합니다.",
+      "tags": [
+        "중급",
+        "디자인",
+        "긴자"
+      ],
+      "bestFor": "쇼핑·카페",
+      "query": "The Royal Park Canvas Ginza 8, 8-9-4 Ginza, Chuo City, Tokyo, Japan"
+    },
+    {
+      "area": "아사쿠사",
+      "name": "더 게이트 호텔 가미나리몬 by HULIC",
+      "priority": "전망 추천",
+      "desc": "가미나리몬 인근에서 스카이트리와 아사쿠사 풍경을 즐기기 좋은 인기 호텔입니다.",
+      "tags": [
+        "고급",
+        "전망",
+        "센소지"
+      ],
+      "bestFor": "첫 여행·전통 분위기",
+      "query": "The Gate Hotel Kaminarimon by HULIC, 2-16-11 Kaminarimon, Taito City, Tokyo, Japan"
+    },
+    {
+      "area": "아사쿠사",
+      "name": "리치몬드 호텔 프리미어 아사쿠사 인터내셔널",
+      "priority": "가성비 추천",
+      "desc": "센소지 접근성과 안정적인 객실 컨디션으로 자유여행객에게 많이 선택되는 숙소입니다.",
+      "tags": [
+        "중급",
+        "가성비",
+        "센소지"
+      ],
+      "bestFor": "가족·첫 여행",
+      "query": "Richmond Hotel Premier Asakusa International, 2-6-7 Asakusa, Taito City, Tokyo, Japan"
+    },
+    {
+      "area": "아사쿠사",
+      "name": "온야도 노노 아사쿠사",
+      "priority": "대욕장 추천",
+      "desc": "일본식 분위기와 대욕장을 함께 즐길 수 있어 일정 후 휴식을 중시할 때 인기 있는 숙소입니다.",
+      "tags": [
+        "중급",
+        "대욕장",
+        "일본감성"
+      ],
+      "bestFor": "휴식·커플",
+      "query": "Onyado Nono Asakusa, 2-7-20 Asakusa, Taito City, Tokyo, Japan"
+    },
+    {
+      "area": "아사쿠사",
+      "name": "아사쿠사 뷰 호텔",
+      "priority": "스테디셀러",
+      "desc": "아사쿠사 일대를 대표하는 대형 호텔로 스카이트리 방향 전망 객실이 특히 유명합니다.",
+      "tags": [
+        "고급",
+        "전망",
+        "가족"
+      ],
+      "bestFor": "가족·전망",
+      "query": "Asakusa View Hotel, 3-17-1 Nishiasakusa, Taito City, Tokyo, Japan"
+    },
+    {
+      "area": "우에노",
+      "name": "NOHGA HOTEL UENO TOKYO",
+      "priority": "감성 추천",
+      "desc": "우에노역 접근성과 로컬 감성을 살린 디자인으로 좋은 평가를 받는 호텔입니다.",
+      "tags": [
+        "중급",
+        "디자인",
+        "우에노"
+      ],
+      "bestFor": "박물관·아사쿠사 연계",
+      "query": "NOHGA HOTEL UENO TOKYO, 2-21-10 Higashiueno, Taito City, Tokyo, Japan"
+    },
+    {
+      "area": "우에노",
+      "name": "MIMARU TOKYO UENO NORTH",
+      "priority": "가족 추천",
+      "desc": "여러 명이 함께 묵기 좋은 아파트먼트형 객실로 가족·친구 여행에서 특히 인기입니다.",
+      "tags": [
+        "중급",
+        "가족",
+        "다인실"
+      ],
+      "bestFor": "3~5인 여행",
+      "query": "MIMARU TOKYO UENO NORTH, 7-14-4 Ueno, Taito City, Tokyo, Japan"
+    },
+    {
+      "area": "롯폰기·아카사카",
+      "name": "그랜드 하얏트 도쿄",
+      "priority": "대표 럭셔리",
+      "desc": "롯폰기 힐즈에 위치해 미식·쇼핑·야간 일정과 럭셔리 숙박을 한 번에 해결할 수 있습니다.",
+      "tags": [
+        "럭셔리",
+        "롯폰기",
+        "미식"
+      ],
+      "bestFor": "기념 여행·야간 일정",
+      "query": "Grand Hyatt Tokyo, 6-10-3 Roppongi, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "롯폰기·아카사카",
+      "name": "미츠이 가든 호텔 롯폰기 프리미어",
+      "priority": "중상급 추천",
+      "desc": "롯폰기 중심에서 비교적 세련된 객실과 접근성을 원하는 여행자에게 인기가 높습니다.",
+      "tags": [
+        "고급",
+        "롯폰기",
+        "야간동선"
+      ],
+      "bestFor": "커플·도심 일정",
+      "query": "Mitsui Garden Hotel Roppongi Tokyo Premier, 3-15-17 Roppongi, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "롯폰기·아카사카",
+      "name": "ANA 인터컨티넨탈 도쿄",
+      "priority": "스테디셀러",
+      "desc": "아카사카·롯폰기·도라노몬 사이의 중심 입지와 안정적인 서비스로 오래 추천되는 호텔입니다.",
+      "tags": [
+        "럭셔리",
+        "교통편리",
+        "비즈니스"
+      ],
+      "bestFor": "도심 전역 이동",
+      "query": "ANA InterContinental Tokyo, 1-12-33 Akasaka, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "롯폰기·아카사카",
+      "name": "더 캐피톨 호텔 도큐",
+      "priority": "럭셔리 추천",
+      "desc": "일본적인 정제미와 조용한 분위기, 중심부 접근성을 함께 갖춘 상급 호텔입니다.",
+      "tags": [
+        "럭셔리",
+        "조용함",
+        "일본미"
+      ],
+      "bestFor": "휴식·기념 여행",
+      "query": "The Capitol Hotel Tokyu, 2-10-3 Nagatacho, Chiyoda City, Tokyo, Japan"
+    },
+    {
+      "area": "롯폰기·아카사카",
+      "name": "더 프린스 갤러리 도쿄 기오이초",
+      "priority": "전망 추천",
+      "desc": "고층 전망과 럭셔리한 분위기로 커플·기념 여행에서 자주 추천됩니다.",
+      "tags": [
+        "럭셔리",
+        "전망",
+        "커플"
+      ],
+      "bestFor": "야경·기념 여행",
+      "query": "The Prince Gallery Tokyo Kioicho, 1-2 Kioicho, Chiyoda City, Tokyo, Japan"
+    },
+    {
+      "area": "롯폰기·아카사카",
+      "name": "호텔 뉴 오타니 도쿄",
+      "priority": "정원 추천",
+      "desc": "넓은 일본 정원과 다양한 식음시설, 안정적인 서비스로 가족·장기 일정에도 적합합니다.",
+      "tags": [
+        "고급",
+        "정원",
+        "가족"
+      ],
+      "bestFor": "가족·여유로운 일정",
+      "query": "Hotel New Otani Tokyo, 4-1 Kioicho, Chiyoda City, Tokyo, Japan"
+    },
+    {
+      "area": "시오도메·오다이바",
+      "name": "더 로열 파크 호텔 아이코닉 도쿄 시오도메",
+      "priority": "교통 추천",
+      "desc": "신바시·시오도메 접근성과 고층 전망의 균형이 좋아 여행과 비즈니스 모두에서 인기가 높습니다.",
+      "tags": [
+        "고급",
+        "전망",
+        "신바시"
+      ],
+      "bestFor": "긴자·오다이바 연계",
+      "query": "The Royal Park Hotel Iconic Tokyo Shiodome, 1-6-3 Higashi-Shimbashi, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시오도메·오다이바",
+      "name": "콘래드 도쿄",
+      "priority": "대표 럭셔리",
+      "desc": "하마리큐와 도쿄만 방향 전망, 서비스와 다이닝으로 유명한 시오도메의 대표 럭셔리 호텔입니다.",
+      "tags": [
+        "럭셔리",
+        "전망",
+        "미식"
+      ],
+      "bestFor": "기념 여행",
+      "query": "Conrad Tokyo, 1-9-1 Higashi-Shimbashi, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시오도메·오다이바",
+      "name": "파크 호텔 도쿄",
+      "priority": "아트 추천",
+      "desc": "아티스트룸과 고층 로비로 유명하며 시오도메·신바시 이동이 편리합니다.",
+      "tags": [
+        "고급",
+        "아트",
+        "전망"
+      ],
+      "bestFor": "감성·커플",
+      "query": "Park Hotel Tokyo, Shiodome Media Tower, 1-7-1 Higashi-Shimbashi, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시오도메·오다이바",
+      "name": "메즈 도쿄 오토그래프 컬렉션",
+      "priority": "럭셔리 추천",
+      "desc": "워터프런트 전망과 현대적인 분위기로 비교적 조용한 도쿄 숙박을 원하는 여행자에게 추천됩니다.",
+      "tags": [
+        "럭셔리",
+        "워터프런트",
+        "전망"
+      ],
+      "bestFor": "커플·휴식",
+      "query": "mesm Tokyo Autograph Collection, 1-10-30 Kaigan, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시오도메·오다이바",
+      "name": "힐튼 도쿄 오다이바",
+      "priority": "가족 추천",
+      "desc": "레인보우브리지와 도쿄만 전망, 넓은 객실과 오다이바 관광 접근성이 강점입니다.",
+      "tags": [
+        "고급",
+        "가족",
+        "베이뷰"
+      ],
+      "bestFor": "오다이바·가족",
+      "query": "Hilton Tokyo Odaiba, 1-9-1 Daiba, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시오도메·오다이바",
+      "name": "그랜드 닛코 도쿄 다이바",
+      "priority": "스테디셀러",
+      "desc": "다이바역 바로 앞의 대형 호텔로 오다이바 관광과 가족 여행에 꾸준히 선택됩니다.",
+      "tags": [
+        "고급",
+        "역세권",
+        "가족"
+      ],
+      "bestFor": "오다이바 중심 일정",
+      "query": "Grand Nikko Tokyo Daiba, 2-6-1 Daiba, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시나가와·다마치",
+      "name": "시나가와 프린스 호텔",
+      "priority": "교통 추천",
+      "desc": "시나가와역 맞은편의 대형 호텔로 신칸센·하네다 공항 이동이 많은 여행에 매우 편리합니다.",
+      "tags": [
+        "중급",
+        "신칸센",
+        "공항접근"
+      ],
+      "bestFor": "하네다·지방 이동",
+      "query": "Shinagawa Prince Hotel, 4-10-30 Takanawa, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시나가와·다마치",
+      "name": "더 스트링스 바이 인터컨티넨탈 도쿄",
+      "priority": "고급 추천",
+      "desc": "시나가와역과 연결된 고층 호텔로 이동성과 조용한 고급 분위기를 함께 갖췄습니다.",
+      "tags": [
+        "럭셔리",
+        "역직결",
+        "전망"
+      ],
+      "bestFor": "공항·신칸센",
+      "query": "The Strings by InterContinental Tokyo, 2-16-1 Konan, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시나가와·다마치",
+      "name": "풀만 도쿄 타마치",
+      "priority": "현대적 추천",
+      "desc": "다마치역과 연결되는 복합시설 안에 있어 야마노테선 이동과 현대적인 객실을 중시할 때 좋습니다.",
+      "tags": [
+        "고급",
+        "역세권",
+        "모던"
+      ],
+      "bestFor": "도심 이동·비즈니스",
+      "query": "Pullman Tokyo Tamachi, 3-1-21 Shibaura, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시나가와·다마치",
+      "name": "호텔 더 셀레스틴 도쿄 시바",
+      "priority": "조용한 숙소",
+      "desc": "시바공원권의 차분한 분위기와 라운지 공간으로 번화가 숙박이 부담스러운 여행자에게 잘 맞습니다.",
+      "tags": [
+        "고급",
+        "조용함",
+        "커플"
+      ],
+      "bestFor": "휴식·도쿄타워",
+      "query": "Hotel The Celestine Tokyo Shiba, 3-23-1 Shiba, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시나가와·다마치",
+      "name": "더 프린스 파크 타워 도쿄",
+      "priority": "도쿄타워뷰",
+      "desc": "도쿄타워와 시바공원 조망으로 특히 유명한 도쿄 대표 전망 호텔 중 하나입니다.",
+      "tags": [
+        "럭셔리",
+        "도쿄타워뷰",
+        "커플"
+      ],
+      "bestFor": "야경·기념 여행",
+      "query": "The Prince Park Tower Tokyo, 4-8-1 Shibakoen, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "시나가와·다마치",
+      "name": "도쿄 프린스 호텔",
+      "priority": "위치 추천",
+      "desc": "도쿄타워와 조조지 바로 옆의 전통적인 대형 호텔로 비교적 여유로운 입지가 장점입니다.",
+      "tags": [
+        "고급",
+        "도쿄타워",
+        "공원"
+      ],
+      "bestFor": "도쿄타워 일정",
+      "query": "Tokyo Prince Hotel, 3-3-1 Shibakoen, Minato City, Tokyo, Japan"
+    },
+    {
+      "area": "이케부쿠로",
+      "name": "호텔 메트로폴리탄 도쿄 이케부쿠로",
+      "priority": "교통 추천",
+      "desc": "이케부쿠로역 서쪽의 대표 대형 호텔로 야마노테선과 사이타마 방면 이동이 편리합니다.",
+      "tags": [
+        "중급",
+        "역세권",
+        "가족"
+      ],
+      "bestFor": "이케부쿠로 중심 일정",
+      "query": "Hotel Metropolitan Tokyo Ikebukuro, 1-6-1 Nishi-Ikebukuro, Toshima City, Tokyo, Japan"
+    },
+    {
+      "area": "이케부쿠로",
+      "name": "선샤인 시티 프린스 호텔",
+      "priority": "가족 추천",
+      "desc": "선샤인시티와 연결돼 쇼핑·수족관·포켓몬센터 일정을 묶기 좋은 숙소입니다.",
+      "tags": [
+        "중급",
+        "가족",
+        "쇼핑"
+      ],
+      "bestFor": "가족·서브컬처",
+      "query": "Sunshine City Prince Hotel, 3-1-5 Higashi-Ikebukuro, Toshima City, Tokyo, Japan"
+    },
+    {
+      "area": "이케부쿠로",
+      "name": "호텔 리솔 이케부쿠로",
+      "priority": "실속 추천",
+      "desc": "히가시이케부쿠로와 이케부쿠로 중심 사이에서 비교적 합리적인 숙박을 찾을 때 인기 있는 선택지입니다.",
+      "tags": [
+        "중급",
+        "가성비",
+        "교통편리"
+      ],
+      "bestFor": "실속 여행",
+      "query": "Hotel Resol Ikebukuro, 2-30-14 Minami-Ikebukuro, Toshima City, Tokyo, Japan"
+    },
+    {
+      "area": "이케부쿠로",
+      "name": "DEL style Ikebukuro Higashiguchi",
+      "priority": "가성비 추천",
+      "desc": "이케부쿠로 동쪽 쇼핑·맛집 동선에 가깝고 객실 컨디션 대비 가격 밸런스로 자주 선택됩니다.",
+      "tags": [
+        "중급",
+        "역세권",
+        "쇼핑"
+      ],
+      "bestFor": "쇼핑·맛집",
+      "query": "DEL style Ikebukuro Higashiguchi, 1-20-8 Minami-Ikebukuro, Toshima City, Tokyo, Japan"
+    },
+    {
+      "area": "이케부쿠로",
+      "name": "도미 인 이케부쿠로",
+      "priority": "대욕장 추천",
+      "desc": "대욕장과 야식 서비스 등 도미인 특유의 편의성으로 일본 여행객 사이에서 인기가 높습니다.",
+      "tags": [
+        "중급",
+        "대욕장",
+        "가성비"
+      ],
+      "bestFor": "휴식·실속 여행",
+      "query": "Dormy Inn Ikebukuro, 3-11-11 Higashi-Ikebukuro, Toshima City, Tokyo, Japan"
+    },
+    {
+      "area": "이케부쿠로",
+      "name": "센추리온 호텔 이케부쿠로",
+      "priority": "실속 숙소",
+      "desc": "이케부쿠로 동쪽 상권 접근성과 비교적 실용적인 가격대로 단기 여행에 많이 선택됩니다.",
+      "tags": [
+        "중급",
+        "가성비",
+        "쇼핑"
+      ],
+      "bestFor": "단기 여행",
+      "query": "Centurion Hotel Ikebukuro, 1-8-9 Higashi-Ikebukuro, Toshima City, Tokyo, Japan"
+    }
+  ],
+  "passes": [
+    {
+      "group": "도심 교통",
+      "name": "Tokyo Subway Ticket 24·48·72시간권",
+      "price": "24시간 ¥1,000 · 48시간 ¥1,500 · 72시간 ¥2,000",
+      "valid": "첫 사용부터 24 / 48 / 72시간",
+      "coverage": "도쿄메트로 9개 노선 + 도에이 지하철 4개 노선",
+      "desc": "외국인·일부 일본 국내 여행객용 대표 지하철 패스. 하루 단위가 아니라 첫 사용 시각부터 24/48/72시간으로 계산되어 일정 활용도가 높습니다.",
+      "bestFor": "지하철을 하루 5회 안팎 이상 타는 일정 · 2~3일 도쿄 시내 여행",
+      "note": "JR 야마노테선 등 JR 노선은 포함되지 않습니다. 판매 자격/구매 조건을 확인하세요.",
+      "tags": [
+        "인기",
+        "24·48·72시간",
+        "메트로+도에이"
+      ],
+      "infoUrl": "https://www.tokyometro.jp/kr/ticket/travel/index.html",
+      "buyUrl": "https://tokyometrods.triplabo.com/ko/product/prod_agpqggha454y7imf4xqzdrfrc4?utm_campaign=tokyometro_direct_202607&utm_content=no90_tst_exchange_ko&utm_medium=referral&utm_source=tokyo_metro_for_tourist"
+    },
+    {
+      "group": "도심 교통",
+      "name": "Tokyo Metro 24-hour Ticket",
+      "price": "성인 ¥700 · 어린이 ¥350",
+      "valid": "첫 사용부터 24시간",
+      "coverage": "도쿄메트로 전 9개 노선",
+      "desc": "도쿄메트로만 집중적으로 이용할 때 가장 단순하고 저렴한 24시간권입니다. 시작 시각 기준 24시간이라 저녁부터 다음 날 저녁까지도 활용 가능합니다.",
+      "bestFor": "긴자·마루노우치·히비야·한조몬·후쿠토신선 등을 여러 번 이용하는 날",
+      "note": "도에이 지하철과 JR은 포함되지 않습니다.",
+      "tags": [
+        "가성비",
+        "24시간",
+        "도쿄메트로"
+      ],
+      "infoUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
+      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html"
+    },
+    {
+      "group": "도심 교통",
+      "name": "도쿄메트로·도에이 지하철 공통 1일권",
+      "price": "성인 ¥1,100 · 어린이 ¥550",
+      "valid": "지정한 1일 / 당일 첫차~막차",
+      "coverage": "도쿄메트로 전 노선 + 도에이 지하철 전 노선",
+      "desc": "도쿄의 두 지하철 사업자 노선을 하루 동안 자유롭게 이용합니다. 지하철 위주로 움직이지만 여행자용 Tokyo Subway Ticket 구매 조건이 맞지 않을 때도 유용합니다.",
+      "bestFor": "아사쿠사·신주쿠·롯폰기 등 메트로와 도에이를 함께 많이 타는 날",
+      "note": "JR 노선은 포함되지 않습니다. 24시간제가 아니라 지정한 하루 기준 상품입니다.",
+      "tags": [
+        "1일권",
+        "메트로+도에이"
+      ],
+      "infoUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
+      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html"
+    },
+    {
+      "group": "도심 교통",
+      "name": "도쿄 프리 승차권 (Tokyo 1-Day Ticket)",
+      "price": "성인 ¥1,720 · 어린이 ¥860",
+      "valid": "지정한 1일 / 첫차~막차",
+      "coverage": "도쿄메트로 + 도에이 지하철 + 도버스 + 도쿄 사쿠라트램 + 닛포리·도네리 라이너 + 도쿄 23구 JR",
+      "desc": "도쿄 중심부의 JR과 지하철, 일부 버스·트램까지 폭넓게 묶은 올인원형 1일권입니다.",
+      "bestFor": "하루에 JR·지하철·버스를 섞어 여러 권역을 촘촘하게 이동할 때",
+      "note": "단순 지하철 일정이면 더 저렴한 패스가 유리할 수 있습니다.",
+      "tags": [
+        "올인원",
+        "JR포함",
+        "1일권"
+      ],
+      "infoUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
+      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html"
+    },
+    {
+      "group": "도심 교통",
+      "name": "JR 도쿠나이 패스",
+      "price": "성인 ¥870 · 어린이 ¥430",
+      "valid": "1일",
+      "coverage": "도쿄 23구 내 JR 보통·쾌속열차 보통차 자유석",
+      "desc": "야마노테선 등 JR 중심으로 도쿄 23구를 이동할 때 쓰기 좋은 1일권입니다.",
+      "bestFor": "도쿄역·아키하바라·우에노·신주쿠·시부야 등 JR 역 위주 일정",
+      "note": "도쿄메트로·도에이 지하철은 포함되지 않습니다.",
+      "tags": [
+        "JR",
+        "야마노테",
+        "1일권"
+      ],
+      "infoUrl": "https://www.jreast.co.jp/en/multi/pass/tokunai_pass.html",
+      "buyUrl": "https://www.jreast.co.jp/en/multi/pass/tokunai_pass.html"
+    },
+    {
+      "group": "근교·광역",
+      "name": "JR TOKYO Wide Pass",
+      "price": "성인 ¥16,000 · 어린이 ¥8,000",
+      "valid": "연속 3일",
+      "coverage": "JR 동일본 지정 구간 + 도쿄모노레일 + 후지큐 + 이즈급행 등",
+      "desc": "도쿄 시내보다 후지산·닛코·이즈·GALA 유자와 등 근교 여행을 여러 번 묶을 때 가치가 커지는 광역 패스입니다.",
+      "bestFor": "도쿄 숙박을 거점으로 3일 동안 장거리 근교 일정 2회 이상",
+      "note": "외국 여권 소지 여행객 대상이며 도카이도 신칸센은 이용할 수 없습니다.",
+      "tags": [
+        "근교",
+        "신칸센",
+        "3일"
+      ],
+      "infoUrl": "https://www.jreast.co.jp/ko/multi/pass/tokyowidepass.html",
+      "buyUrl": "https://www.eki-net.com/jreast-train-reservation/reserve/wb/PurchaseTicketSelect/Index"
+    },
+    {
+      "group": "근교·광역",
+      "name": "Greater Tokyo Pass",
+      "price": "성인 ¥6,500 · 어린이 ¥3,250",
+      "valid": "5일",
+      "coverage": "간토권 13개 사철 회사 노선 + 도에이 버스",
+      "desc": "JR이 아니라 사철을 넓게 활용해 도쿄와 수도권을 이동할 여행자를 위한 5일 패스입니다.",
+      "bestFor": "사철 중심으로 여러 근교를 이동하거나 5일 동안 폭넓게 이동하는 일정",
+      "note": "외국인 방일 여행객용. 열차 이용 시 자동개찰기를 통과하지 않고 안내에 따라 패스 화면을 제시해야 하는 구간이 있습니다.",
+      "tags": [
+        "사철",
+        "5일",
+        "광역"
+      ],
+      "infoUrl": "https://greater-tokyo-pass.jp/en/ticket/",
+      "buyUrl": "https://ars-gtp.triplabo.jp/activity/en/LINKTIVITY-NS6ED"
+    },
+    {
+      "group": "공항 연계",
+      "name": "Keisei Skyliner & Tokyo Subway Ticket",
+      "price": "스카이라이너 편도/왕복 + 지하철 24·48·72시간 조합별 상이",
+      "valid": "지하철권은 첫 사용부터 24 / 48 / 72시간",
+      "coverage": "나리타공항↔게이세이우에노 스카이라이너 + 도쿄메트로·도에이 지하철",
+      "desc": "나리타공항 이동과 도쿄 지하철 패스를 한 번에 묶은 세트권입니다. 우에노·닛포리 접근이 좋은 숙소라면 특히 편리합니다.",
+      "bestFor": "나리타공항 이용 + 우에노·아사쿠사권 숙박 또는 지하철 중심 일정",
+      "note": "스카이라이너 좌석 지정과 지하철권 사용 개시 시점을 각각 확인하세요.",
+      "tags": [
+        "나리타",
+        "스카이라이너",
+        "지하철"
+      ],
+      "infoUrl": "https://www.keisei.co.jp/keisei/tetudou/skyliner/kr/tickets/subway.php",
+      "buyUrl": "https://www.keisei.co.jp/keisei/tetudou/skyliner/kr/tickets/subway.php"
+    },
+    {
+      "group": "공항 연계",
+      "name": "N'EX 도쿄 왕복 티켓",
+      "price": "성인 ¥5,200 · 어린이 ¥2,600",
+      "valid": "14일 이내 왕복",
+      "coverage": "나리타 익스프레스 지정 구간 왕복",
+      "desc": "나리타공항에서 도쿄·시나가와·시부야·신주쿠·요코하마 방면으로 환승 없이 이동하기 좋은 왕복 할인 티켓입니다.",
+      "bestFor": "나리타공항 이용 + 신주쿠·시부야·도쿄역권 숙박",
+      "note": "왕복 상품이므로 귀국편까지 14일 안에 이용해야 합니다.",
+      "tags": [
+        "나리타",
+        "NEX",
+        "왕복"
+      ],
+      "infoUrl": "https://www.jreast.co.jp/ko/multi/pass/nex.html",
+      "buyUrl": "https://www.eki-net.com/jreast-train-reservation/reserve/wb/PurchaseTicketSelect/Index"
+    },
+    {
+      "group": "근교·광역",
+      "name": "논비리 홀리데이 Suica 패스",
+      "price": "성인 ¥2,850 · 어린이 ¥1,420",
+      "valid": "대상일 1일",
+      "coverage": "JR 지정 근교 구간 + 린카이선 + 도쿄모노레일",
+      "desc": "가마쿠라 등 도쿄 주변을 당일치기로 다녀오면서 JR 구간을 자유롭게 승하차하기 좋은 Suica 전용 패스입니다.",
+      "bestFor": "주말·공휴일 또는 지정 성수기에 근교 JR 당일치기",
+      "note": "이용 가능일이 정해져 있고 신칸센은 사용할 수 없습니다.",
+      "tags": [
+        "Suica",
+        "근교",
+        "1일"
+      ],
+      "infoUrl": "https://www.jreast.co.jp/multi/ko/pass/nonbiri_pass.html",
+      "buyUrl": "https://www.jreast.co.jp/multi/ko/pass/nonbiri_pass.html"
+    }
   ]
 };
