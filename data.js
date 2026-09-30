@@ -12,7 +12,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전",
       "note": "주말 낮 혼잡",
-      "query": "센소지·나카미세도리 아사쿠사·우에노 Tokyo Japan",
+      "query": "Senso-ji, 2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
       "categories": [
         "관광"
       ]
@@ -28,7 +28,7 @@ window.TOKYO_DATA = {
         "전통"
       ],
       "bestFor": "오전",
-      "query": "메이지진구 시부야·하라주쿠 Tokyo Japan",
+      "query": "메이지진구, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -44,7 +44,7 @@ window.TOKYO_DATA = {
         "랜드마크"
       ],
       "bestFor": "해질 무렵~밤",
-      "query": "시부야 스크램블 교차로 시부야·하라주쿠 Tokyo Japan",
+      "query": "시부야 스크램블 교차로, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -60,7 +60,7 @@ window.TOKYO_DATA = {
         "사진"
       ],
       "bestFor": "저녁~밤",
-      "query": "가부키초·고질라 헤드 신주쿠 Tokyo Japan",
+      "query": "Godzilla Head, Hotel Gracery Shinjuku, 1 Chome-19-1 Kabukicho, Shinjuku City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -76,7 +76,7 @@ window.TOKYO_DATA = {
         "레트로"
       ],
       "bestFor": "저녁",
-      "query": "오모이데요코초 신주쿠 Tokyo Japan",
+      "query": "오모이데요코초, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -92,7 +92,7 @@ window.TOKYO_DATA = {
         "사진"
       ],
       "bestFor": "저녁",
-      "query": "도쿄역 마루노우치 역사 도쿄역·긴자 Tokyo Japan",
+      "query": "Tokyo Station Marunouchi Station Building, Marunouchi, Chiyoda City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -108,7 +108,7 @@ window.TOKYO_DATA = {
         "사진"
       ],
       "bestFor": "오전~오후",
-      "query": "고쿄 외원·니주바시 도쿄역·긴자 Tokyo Japan",
+      "query": "Nijubashi Bridge, Chiyoda City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -125,7 +125,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전",
       "note": "오후 일찍 닫는 점포 많음",
-      "query": "쓰키지 장외시장 도쿄역·긴자 Tokyo Japan",
+      "query": "쓰키지 장외시장, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -141,7 +141,7 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "일몰 전후",
-      "query": "도쿄타워 롯폰기·아자부 Tokyo Japan",
+      "query": "Tokyo Tower, 4 Chome-2-8 Shibakoen, Minato City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -157,7 +157,7 @@ window.TOKYO_DATA = {
         "사진"
       ],
       "bestFor": "오전~오후",
-      "query": "조조지 롯폰기·아자부 Tokyo Japan",
+      "query": "Zojo-ji Temple, 4 Chome-7-35 Shibakoen, Minato City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -174,7 +174,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오후",
       "note": "휴관일 확인",
-      "query": "네즈미술관 롯폰기·아자부 Tokyo Japan",
+      "query": "Nezu Museum, 6 Chome-5-1 Minamiaoyama, Minato City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -191,7 +191,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~저녁",
       "note": "사전 예약 권장",
-      "query": "teamLab Borderless 롯폰기·아자부 Tokyo Japan",
+      "query": "teamLab Borderless Azabudai Hills Garden Plaza B B1, 1-2-4 Azabudai, Minato City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -208,7 +208,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~저녁",
       "note": "사전 예약 권장",
-      "query": "teamLab Planets TOKYO 오다이바·도요스 Tokyo Japan",
+      "query": "teamLab Planets TOKYO, 6-1-16 Toyosu, Koto City, Tokyo 135-0061, Japan",
       "categories": [
         "관광"
       ]
@@ -225,7 +225,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "이른 오전",
       "note": "시장 휴일 확인",
-      "query": "도요스 시장 오다이바·도요스 Tokyo Japan",
+      "query": "Toyosu Market, 6 Chome-6 Toyosu, Koto City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -241,7 +241,7 @@ window.TOKYO_DATA = {
         "가족"
       ],
       "bestFor": "오후",
-      "query": "스몰월즈 미니어처 뮤지엄 오다이바·도요스 Tokyo Japan",
+      "query": "스몰월즈 미니어처 뮤지엄, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -258,7 +258,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "휴관일 확인",
-      "query": "일본과학미래관 Miraikan 오다이바·도요스 Tokyo Japan",
+      "query": "Miraikan, 2 Chome-3-6 Aomi, Koto City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -274,7 +274,7 @@ window.TOKYO_DATA = {
         "쇼핑"
       ],
       "bestFor": "오후~저녁",
-      "query": "다이버시티 도쿄 플라자 유니콘 건담 오다이바·도요스 Tokyo Japan",
+      "query": "다이버시티 도쿄 플라자 유니콘 건담, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -290,7 +290,7 @@ window.TOKYO_DATA = {
         "전자상가"
       ],
       "bestFor": "오후~밤",
-      "query": "아키하바라 전자상가 거리 아키하바라·이케부쿠로 Tokyo Japan",
+      "query": "아키하바라 전자상가 거리, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -306,7 +306,7 @@ window.TOKYO_DATA = {
         "전통"
       ],
       "bestFor": "오전~오후",
-      "query": "칸다묘진 아키하바라·이케부쿠로 Tokyo Japan",
+      "query": "칸다묘진, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -322,7 +322,7 @@ window.TOKYO_DATA = {
         "가족"
       ],
       "bestFor": "오후",
-      "query": "이케부쿠로 선샤인 수족관 아키하바라·이케부쿠로 Tokyo Japan",
+      "query": "이케부쿠로 선샤인 수족관, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -339,7 +339,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "운영 상태 확인",
-      "query": "에도도쿄박물관 료고쿠·스미다 Tokyo Japan",
+      "query": "Edo-Tokyo Museum, 1-4-1 Yokoami, Sumida City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -356,7 +356,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "행사 일정 맞춤",
       "note": "행사 일정 확인",
-      "query": "료고쿠 국기관 료고쿠·스미다 Tokyo Japan",
+      "query": "료고쿠 국기관, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -372,7 +372,7 @@ window.TOKYO_DATA = {
         "건축"
       ],
       "bestFor": "오후",
-      "query": "스미다 호쿠사이 미술관 료고쿠·스미다 Tokyo Japan",
+      "query": "스미다 호쿠사이 미술관, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -389,7 +389,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "월요일 휴관 여부 확인",
-      "query": "도쿄국립박물관 아사쿠사·우에노 Tokyo Japan",
+      "query": "도쿄국립박물관, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -405,7 +405,7 @@ window.TOKYO_DATA = {
         "세계유산"
       ],
       "bestFor": "오후",
-      "query": "국립서양미술관 아사쿠사·우에노 Tokyo Japan",
+      "query": "국립서양미술관, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -421,7 +421,7 @@ window.TOKYO_DATA = {
         "가족"
       ],
       "bestFor": "오전~오후",
-      "query": "국립과학박물관 아사쿠사·우에노 Tokyo Japan",
+      "query": "국립과학박물관, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -438,7 +438,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전",
       "note": "휴원일 확인",
-      "query": "우에노 동물원 아사쿠사·우에노 Tokyo Japan",
+      "query": "우에노 동물원, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -454,7 +454,7 @@ window.TOKYO_DATA = {
         "철쭉"
       ],
       "bestFor": "오전",
-      "query": "네즈 신사 야나카·네즈·센다기 Tokyo Japan",
+      "query": "네즈 신사, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -470,7 +470,7 @@ window.TOKYO_DATA = {
         "벚꽃"
       ],
       "bestFor": "오전~오후",
-      "query": "야스쿠니 신사·유슈칸 주변 이이다바시·구단시타 Tokyo Japan",
+      "query": "야스쿠니 신사·유슈칸 주변, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -486,7 +486,7 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "오후~밤",
-      "query": "도쿄돔 시티 스이도바시·고라쿠엔 Tokyo Japan",
+      "query": "도쿄돔 시티, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -503,7 +503,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "예약 필수",
-      "query": "지브리 미술관 키치조지·미타카 Tokyo Japan",
+      "query": "지브리 미술관, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -520,7 +520,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "입장권 확인",
-      "query": "산리오 퓨로랜드 다마·마치다 Tokyo Japan",
+      "query": "산리오 퓨로랜드, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -537,7 +537,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "휴관일 확인",
-      "query": "에도도쿄 건축박물관 고가네이·서부 Tokyo Japan",
+      "query": "에도도쿄 건축박물관, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -554,14 +554,14 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "밤",
       "note": "소규모 점포 매너 주의",
-      "query": "신주쿠 골든가이 신주쿠 Tokyo Japan",
+      "query": "신주쿠 골든가이, Tokyo, Japan",
       "categories": [
         "관광"
       ]
     },
     {
       "area": "도쿄역·긴자",
-      "name": "도쿄 미드타운 히비야·고질라 광장",
+      "name": "히비야 고질라 광장",
       "priority": "가벼운 코스",
       "desc": "도쿄 여행에서 많이 찾는 대표 명소로, 주변 일정과 묶어 방문하기 좋은 곳입니다.",
       "tags": [
@@ -570,7 +570,7 @@ window.TOKYO_DATA = {
         "사진"
       ],
       "bestFor": "오후~저녁",
-      "query": "도쿄 미드타운 히비야·고질라 광장 도쿄역·긴자 Tokyo Japan",
+      "query": "Hibiya Godzilla Square, 1-2-2 Yurakucho, Chiyoda City, Tokyo, Japan",
       "categories": [
         "관광"
       ]
@@ -586,7 +586,7 @@ window.TOKYO_DATA = {
         "벚꽃"
       ],
       "bestFor": "오전~오후",
-      "query": "우에노공원 아사쿠사·우에노 Tokyo Japan",
+      "query": "우에노공원, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -602,7 +602,7 @@ window.TOKYO_DATA = {
         "노을"
       ],
       "bestFor": "오후",
-      "query": "야나카 긴자·유야케단단 야나카·네즈·센다기 Tokyo Japan",
+      "query": "야나카 긴자·유야케단단, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -618,7 +618,7 @@ window.TOKYO_DATA = {
         "산책"
       ],
       "bestFor": "오전~오후",
-      "query": "야나카 묘지 산책로 야나카·네즈·센다기 Tokyo Japan",
+      "query": "야나카 묘지 산책로, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -634,14 +634,14 @@ window.TOKYO_DATA = {
         "사진"
       ],
       "bestFor": "해질 무렵",
-      "query": "스미다강 테라스 아사쿠사·우에노 Tokyo Japan",
+      "query": "스미다강 테라스, Tokyo, Japan",
       "categories": [
         "산책"
       ]
     },
     {
       "area": "아사쿠사·우에노",
-      "name": "아사쿠사 니시아사쿠사·갓파바시",
+      "name": "갓파바시 도구거리",
       "priority": "로컬 쇼핑",
       "desc": "동네 분위기와 거리 풍경을 천천히 즐기기 좋은 산책 코스입니다.",
       "tags": [
@@ -650,7 +650,7 @@ window.TOKYO_DATA = {
         "로컬"
       ],
       "bestFor": "오후",
-      "query": "아사쿠사 니시아사쿠사·갓파바시 아사쿠사·우에노 Tokyo Japan",
+      "query": "Kappabashi Dougu Street, Taito City, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -667,7 +667,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "휴원일 확인",
-      "query": "신주쿠 교엔 신주쿠 Tokyo Japan",
+      "query": "신주쿠 교엔, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -683,7 +683,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오후~저녁",
-      "query": "메구로강 산책로 나카메구로·다이칸야마 Tokyo Japan",
+      "query": "메구로강 산책로, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -699,7 +699,7 @@ window.TOKYO_DATA = {
         "서점"
       ],
       "bestFor": "오후",
-      "query": "다이칸야마 T-SITE 주변 나카메구로·다이칸야마 Tokyo Japan",
+      "query": "다이칸야마 T-SITE 주변, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -715,7 +715,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "저녁",
-      "query": "에비스 가든플레이스 에비스·다이칸야마 Tokyo Japan",
+      "query": "에비스 가든플레이스, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -731,7 +731,7 @@ window.TOKYO_DATA = {
         "러닝"
       ],
       "bestFor": "오전~오후",
-      "query": "요요기공원 시부야·하라주쿠 Tokyo Japan",
+      "query": "요요기공원, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -747,7 +747,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오후",
-      "query": "오모테산도 건축 산책 시부야·하라주쿠 Tokyo Japan",
+      "query": "오모테산도 건축 산책, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -763,7 +763,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오후",
-      "query": "캣스트리트 시부야·하라주쿠 Tokyo Japan",
+      "query": "캣스트리트, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -779,7 +779,7 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "오후~저녁",
-      "query": "마루노우치 나카도리 도쿄역·긴자 Tokyo Japan",
+      "query": "마루노우치 나카도리, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -795,7 +795,7 @@ window.TOKYO_DATA = {
         "계절"
       ],
       "bestFor": "오후",
-      "query": "히비야공원 도쿄역·긴자 Tokyo Japan",
+      "query": "히비야공원, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -812,7 +812,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "휴원일 확인",
-      "query": "하마리큐 은사정원 시오도메·신바시 Tokyo Japan",
+      "query": "하마리큐 은사정원, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -828,7 +828,7 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "해질 무렵",
-      "query": "오다이바 해변공원 오다이바·도요스 Tokyo Japan",
+      "query": "오다이바 해변공원, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -844,7 +844,7 @@ window.TOKYO_DATA = {
         "러닝"
       ],
       "bestFor": "저녁",
-      "query": "도요스 구루리공원 오다이바·도요스 Tokyo Japan",
+      "query": "도요스 구루리공원, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -860,7 +860,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오전~오후",
-      "query": "기요스미정원 기요스미시라카와 Tokyo Japan",
+      "query": "기요스미정원, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -876,7 +876,7 @@ window.TOKYO_DATA = {
         "창고거리"
       ],
       "bestFor": "오후",
-      "query": "기요스미시라카와 카페거리 기요스미시라카와 Tokyo Japan",
+      "query": "Kiyosumi-shirakawa Station, Koto City, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -892,7 +892,7 @@ window.TOKYO_DATA = {
         "프렌치"
       ],
       "bestFor": "오후~저녁",
-      "query": "가구라자카 골목 이이다바시·구단시타 Tokyo Japan",
+      "query": "가구라자카 골목, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -908,7 +908,7 @@ window.TOKYO_DATA = {
         "보트"
       ],
       "bestFor": "오전~오후",
-      "query": "이노카시라공원 키치조지·미타카 Tokyo Japan",
+      "query": "이노카시라공원, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -924,14 +924,14 @@ window.TOKYO_DATA = {
         "잡화"
       ],
       "bestFor": "오후",
-      "query": "키치조지 나나이바시도리 키치조지·미타카 Tokyo Japan",
+      "query": "키치조지 나나이바시도리, Tokyo, Japan",
       "categories": [
         "산책"
       ]
     },
     {
       "area": "세타가야",
-      "name": "도도로키 계곡 주변",
+      "name": "도도로키 계곡",
       "priority": "자연 추천",
       "desc": "동네 분위기와 거리 풍경을 천천히 즐기기 좋은 산책 코스입니다.",
       "tags": [
@@ -941,7 +941,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "낮",
       "note": "공사·통행 상태 확인",
-      "query": "도도로키 계곡 주변 세타가야 Tokyo Japan",
+      "query": "Todoroki Valley, 1-1-22 Todoroki, Setagaya City, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -958,7 +958,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전",
       "note": "편한 신발 권장",
-      "query": "다카오산 1호로 하치오지·다카오 Tokyo Japan",
+      "query": "다카오산 1호로, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -975,7 +975,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "낮",
       "note": "이동시간 넉넉히",
-      "query": "오쿠타마 호수·산책로 오쿠타마 Tokyo Japan",
+      "query": "오쿠타마 호수·산책로, Tokyo, Japan",
       "categories": [
         "산책"
       ]
@@ -992,7 +992,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "일몰 전후",
       "note": "사전 예약 권장",
-      "query": "도쿄 스카이트리 아사쿠사·우에노 Tokyo Japan",
+      "query": "Tokyo Skytree, 1 Chome-1-2 Oshiage, Sumida City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1009,7 +1009,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "일몰 전후",
       "note": "시간권 조기 매진 가능",
-      "query": "SHIBUYA SKY 시부야·하라주쿠 Tokyo Japan",
+      "query": "SHIBUYA SKY, 2 Chome-24-12 Shibuya, Shibuya City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1026,7 +1026,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "해질 무렵",
       "note": "운영시간 확인",
-      "query": "도쿄도청 전망실 신주쿠 Tokyo Japan",
+      "query": "Tokyo Metropolitan Government Building, 2 Chome-8-1 Nishishinjuku, Shinjuku City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1042,14 +1042,14 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "일몰 전후",
-      "query": "롯폰기 힐즈 도쿄 시티뷰 롯폰기·아자부 Tokyo Japan",
+      "query": "Tokyo City View, Roppongi Hills Mori Tower, 6 Chome-10-1 Roppongi, Minato City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
     },
     {
       "area": "롯폰기·아자부",
-      "name": "아자부다이 힐즈 스카이라인 뷰 포인트",
+      "name": "아자부다이 힐즈 모리 JP 타워",
       "priority": "신규 명소",
       "desc": "도쿄의 스카이라인과 야경을 감상하기 좋은 전망 포인트입니다.",
       "tags": [
@@ -1059,7 +1059,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "저녁",
       "note": "공개 구역 운영 확인",
-      "query": "아자부다이 힐즈 스카이라인 뷰 포인트 롯폰기·아자부 Tokyo Japan",
+      "query": "Azabudai Hills Mori JP Tower, 1-3-1 Azabudai, Minato City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1075,14 +1075,14 @@ window.TOKYO_DATA = {
         "가족"
       ],
       "bestFor": "오후~밤",
-      "query": "선샤인60 전망대 텐보파크 아키하바라·이케부쿠로 Tokyo Japan",
+      "query": "Sunshine 60 Observatory TENBOU-PARK, 3 Chome-1 Higashi-Ikebukuro, Toshima City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
     },
     {
       "area": "시부야·하라주쿠",
-      "name": "시부야 스크램블 스퀘어 전망 공간",
+      "name": "시부야 스크램블 스퀘어",
       "priority": "시부야 뷰",
       "desc": "도쿄의 스카이라인과 야경을 감상하기 좋은 전망 포인트입니다.",
       "tags": [
@@ -1091,7 +1091,7 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "저녁",
-      "query": "시부야 스크램블 스퀘어 전망 공간 시부야·하라주쿠 Tokyo Japan",
+      "query": "Shibuya Scramble Square, 2-24-12 Shibuya, Shibuya City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1107,14 +1107,14 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "일몰 전후",
-      "query": "도쿄타워 메인덱·탑덱 롯폰기·아자부 Tokyo Japan",
+      "query": "도쿄타워 메인덱·탑덱, Tokyo, Japan",
       "categories": [
         "전망"
       ]
     },
     {
       "area": "시오도메·신바시",
-      "name": "카렛타 시오도메 전망 스페이스",
+      "name": "카렛타 시오도메 SKY VIEW",
       "priority": "숨은 전망",
       "desc": "도쿄의 스카이라인과 야경을 감상하기 좋은 전망 포인트입니다.",
       "tags": [
@@ -1124,7 +1124,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "저녁",
       "note": "운영 여부 확인",
-      "query": "카렛타 시오도메 전망 스페이스 시오도메·신바시 Tokyo Japan",
+      "query": "Caretta Shiodome SKY VIEW, 1-8-2 Higashishimbashi, Minato City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1140,14 +1140,14 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "저녁",
-      "query": "KITTE 마루노우치 옥상정원 도쿄역·긴자 Tokyo Japan",
+      "query": "KITTE Marunouchi, 2 Chome-7-2 Marunouchi, Chiyoda City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
     },
     {
       "area": "도쿄역·긴자",
-      "name": "도쿄 국제포럼 유리동 전망 포인트",
+      "name": "도쿄 국제포럼 유리동",
       "priority": "건축 추천",
       "desc": "도쿄의 스카이라인과 야경을 감상하기 좋은 전망 포인트입니다.",
       "tags": [
@@ -1156,7 +1156,7 @@ window.TOKYO_DATA = {
         "사진"
       ],
       "bestFor": "오후",
-      "query": "도쿄 국제포럼 유리동 전망 포인트 도쿄역·긴자 Tokyo Japan",
+      "query": "Tokyo International Forum, 3-5-1 Marunouchi, Chiyoda City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1173,7 +1173,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "맑은 날",
       "note": "운영시간 확인",
-      "query": "분쿄 시빅센터 전망 라운지 스이도바시·고라쿠엔 Tokyo Japan",
+      "query": "Bunkyo Civic Center Observation Lounge, 1 Chome-16-21 Kasuga, Bunkyo City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1189,14 +1189,14 @@ window.TOKYO_DATA = {
         "야경"
       ],
       "bestFor": "저녁",
-      "query": "도쿄 스카이트리 소라마치 30·31층 아사쿠사·우에노 Tokyo Japan",
+      "query": "Tokyo Solamachi 30F 31F, 1 Chome-1-2 Oshiage, Sumida City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
     },
     {
       "area": "오다이바·도요스",
-      "name": "오다이바 레인보우브리지 뷰",
+      "name": "오다이바 해변공원 레인보우브리지 뷰",
       "priority": "야경 추천",
       "desc": "도쿄의 스카이라인과 야경을 감상하기 좋은 전망 포인트입니다.",
       "tags": [
@@ -1205,7 +1205,7 @@ window.TOKYO_DATA = {
         "사진"
       ],
       "bestFor": "저녁",
-      "query": "오다이바 레인보우브리지 뷰 오다이바·도요스 Tokyo Japan",
+      "query": "Odaiba Marine Park, 1 Chome Daiba, Minato City, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1222,7 +1222,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "낮",
       "note": "기상 확인",
-      "query": "다카오산 정상 전망대 하치오지·다카오 Tokyo Japan",
+      "query": "다카오산 정상 전망대, Tokyo, Japan",
       "categories": [
         "전망"
       ]
@@ -1238,7 +1238,7 @@ window.TOKYO_DATA = {
         "의류"
       ],
       "bestFor": "오후",
-      "query": "아메요코 상점가 아사쿠사·우에노 Tokyo Japan",
+      "query": "아메요코 상점가, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1254,7 +1254,7 @@ window.TOKYO_DATA = {
         "푸드"
       ],
       "bestFor": "오후~저녁",
-      "query": "도쿄 소라마치 아사쿠사·우에노 Tokyo Japan",
+      "query": "도쿄 소라마치, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1271,7 +1271,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오후",
       "note": "주말 혼잡",
-      "query": "다케시타도리 시부야·하라주쿠 Tokyo Japan",
+      "query": "다케시타도리, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1287,7 +1287,7 @@ window.TOKYO_DATA = {
         "패션"
       ],
       "bestFor": "오후~저녁",
-      "query": "시부야 PARCO 시부야·하라주쿠 Tokyo Japan",
+      "query": "시부야 PARCO, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1303,7 +1303,7 @@ window.TOKYO_DATA = {
         "젊은층"
       ],
       "bestFor": "오후",
-      "query": "SHIBUYA 109 시부야·하라주쿠 Tokyo Japan",
+      "query": "SHIBUYA 109, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1319,7 +1319,7 @@ window.TOKYO_DATA = {
         "옥상"
       ],
       "bestFor": "오후~밤",
-      "query": "미야시타파크·RAYARD 시부야·하라주쿠 Tokyo Japan",
+      "query": "미야시타파크·RAYARD, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1335,7 +1335,7 @@ window.TOKYO_DATA = {
         "패션"
       ],
       "bestFor": "오후",
-      "query": "오모테산도 힐즈 시부야·하라주쿠 Tokyo Japan",
+      "query": "오모테산도 힐즈, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1351,7 +1351,7 @@ window.TOKYO_DATA = {
         "트렌드"
       ],
       "bestFor": "오후",
-      "query": "라포레 하라주쿠 시부야·하라주쿠 Tokyo Japan",
+      "query": "라포레 하라주쿠, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1367,7 +1367,7 @@ window.TOKYO_DATA = {
         "식당"
       ],
       "bestFor": "오후~저녁",
-      "query": "루미네 신주쿠 신주쿠 Tokyo Japan",
+      "query": "루미네 신주쿠, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1383,7 +1383,7 @@ window.TOKYO_DATA = {
         "에키나카"
       ],
       "bestFor": "오후~저녁",
-      "query": "NEWoMan 신주쿠 신주쿠 Tokyo Japan",
+      "query": "NEWoMan 신주쿠, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1399,7 +1399,7 @@ window.TOKYO_DATA = {
         "패션"
       ],
       "bestFor": "오후",
-      "query": "이세탄 신주쿠 신주쿠 Tokyo Japan",
+      "query": "이세탄 신주쿠, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1416,7 +1416,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "밤",
       "note": "혼잡 시간 주의",
-      "query": "돈키호테 신주쿠 가부키초점 신주쿠 Tokyo Japan",
+      "query": "돈키호테 신주쿠 가부키초점, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1432,7 +1432,7 @@ window.TOKYO_DATA = {
         "옥상"
       ],
       "bestFor": "오후",
-      "query": "긴자 식스 GINZA SIX 도쿄역·긴자 Tokyo Japan",
+      "query": "긴자 식스 GINZA SIX, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1448,7 +1448,7 @@ window.TOKYO_DATA = {
         "식품관"
       ],
       "bestFor": "오후",
-      "query": "긴자 미츠코시 도쿄역·긴자 Tokyo Japan",
+      "query": "긴자 미츠코시, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1464,7 +1464,7 @@ window.TOKYO_DATA = {
         "식품관"
       ],
       "bestFor": "오후",
-      "query": "마츠야 긴자 도쿄역·긴자 Tokyo Japan",
+      "query": "마츠야 긴자, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1480,7 +1480,7 @@ window.TOKYO_DATA = {
         "호텔"
       ],
       "bestFor": "오후",
-      "query": "무인양품 긴자 도쿄역·긴자 Tokyo Japan",
+      "query": "무인양품 긴자, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1496,7 +1496,7 @@ window.TOKYO_DATA = {
         "에키나카"
       ],
       "bestFor": "오후",
-      "query": "도쿄 캐릭터 스트리트 도쿄역·긴자 Tokyo Japan",
+      "query": "도쿄 캐릭터 스트리트, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1512,7 +1512,7 @@ window.TOKYO_DATA = {
         "에키나카"
       ],
       "bestFor": "점심~저녁",
-      "query": "도쿄 라멘 스트리트·도쿄역일번가 도쿄역·긴자 Tokyo Japan",
+      "query": "도쿄 라멘 스트리트·도쿄역일번가, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1528,7 +1528,7 @@ window.TOKYO_DATA = {
         "애니"
       ],
       "bestFor": "오후",
-      "query": "아키하바라 라디오회관 아키하바라·이케부쿠로 Tokyo Japan",
+      "query": "아키하바라 라디오회관, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1544,7 +1544,7 @@ window.TOKYO_DATA = {
         "면세"
       ],
       "bestFor": "오후~저녁",
-      "query": "요도바시 Akiba 아키하바라·이케부쿠로 Tokyo Japan",
+      "query": "요도바시 Akiba, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1560,14 +1560,14 @@ window.TOKYO_DATA = {
         "만화"
       ],
       "bestFor": "오후",
-      "query": "애니메이트 이케부쿠로 본점 아키하바라·이케부쿠로 Tokyo Japan",
+      "query": "애니메이트 이케부쿠로 본점, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
     },
     {
       "area": "아키하바라·이케부쿠로",
-      "name": "선샤인시티 알파·포켓몬센터 메가도쿄",
+      "name": "포켓몬센터 메가도쿄",
       "priority": "캐릭터 추천",
       "desc": "기념품·패션·캐릭터·생활용품 등을 둘러보기 좋은 인기 쇼핑 스폿입니다.",
       "tags": [
@@ -1576,7 +1576,7 @@ window.TOKYO_DATA = {
         "쇼핑몰"
       ],
       "bestFor": "오후",
-      "query": "선샤인시티 알파·포켓몬센터 메가도쿄 아키하바라·이케부쿠로 Tokyo Japan",
+      "query": "Pokemon Center Mega Tokyo, Sunshine City Alpa 2F, 3-1-2 Higashi-Ikebukuro, Toshima City, Tokyo 170-6002, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1592,7 +1592,7 @@ window.TOKYO_DATA = {
         "피규어"
       ],
       "bestFor": "오후",
-      "query": "나카노 브로드웨이 나카노 Tokyo Japan",
+      "query": "나카노 브로드웨이, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1608,7 +1608,7 @@ window.TOKYO_DATA = {
         "패션"
       ],
       "bestFor": "오후",
-      "query": "시모키타자와 빈티지숍 거리 시모키타자와 Tokyo Japan",
+      "query": "Shimokitazawa Station, Setagaya City, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1624,7 +1624,7 @@ window.TOKYO_DATA = {
         "먹거리"
       ],
       "bestFor": "오후~저녁",
-      "query": "키치조지 선로드·하모니카요코초 키치조지·미타카 Tokyo Japan",
+      "query": "Harmonica Yokocho, Kichijoji, Musashino, Tokyo, Japan",
       "categories": [
         "쇼핑"
       ]
@@ -1643,7 +1643,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "피크 시간 대기 가능",
-      "query": "우오베이 시부야 도겐자카점 시부야·하라주쿠 Tokyo Japan"
+      "query": "우오베이 시부야 도겐자카점, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1656,7 +1656,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심·저녁",
-      "query": "AFURI 하라주쿠 시부야·하라주쿠 Tokyo Japan"
+      "query": "AFURI 하라주쿠, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1670,7 +1670,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "이른 점심·저녁",
       "note": "대기 가능",
-      "query": "규카츠 모토무라 시부야 시부야·하라주쿠 Tokyo Japan"
+      "query": "규카츠 모토무라 시부야, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1684,7 +1684,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "예약 권장",
-      "query": "스시 도쿄 텐 시부야 시부야·하라주쿠 Tokyo Japan"
+      "query": "스시 도쿄 텐 시부야, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1698,7 +1698,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "대기 가능",
-      "query": "우동 신 Udon Shin 시부야·하라주쿠 Tokyo Japan"
+      "query": "우동 신 Udon Shin, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1711,7 +1711,7 @@ window.TOKYO_DATA = {
         "비건옵션"
       ],
       "bestFor": "점심·저녁",
-      "query": "Jikasei MENSHO 시부야·하라주쿠 Tokyo Japan"
+      "query": "Jikasei MENSHO, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1724,7 +1724,7 @@ window.TOKYO_DATA = {
         "간단식"
       ],
       "bestFor": "점심·저녁",
-      "query": "하라주쿠 교자루 시부야·하라주쿠 Tokyo Japan"
+      "query": "하라주쿠 교자루, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1737,7 +1737,7 @@ window.TOKYO_DATA = {
         "일식"
       ],
       "bestFor": "점심·저녁",
-      "query": "마이센 아오야마 본점 시부야·하라주쿠 Tokyo Japan"
+      "query": "마이센 아오야마 본점, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1750,7 +1750,7 @@ window.TOKYO_DATA = {
         "브런치"
       ],
       "bestFor": "점심",
-      "query": "The Great Burger 시부야·하라주쿠 Tokyo Japan"
+      "query": "The Great Burger, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1763,7 +1763,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "아침·점심",
-      "query": "Bills 오모테산도 시부야·하라주쿠 Tokyo Japan"
+      "query": "Bills 오모테산도, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1777,7 +1777,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오후",
       "note": "대기 가능",
-      "query": "A Happy Pancake 오모테산도 시부야·하라주쿠 Tokyo Japan"
+      "query": "A Happy Pancake 오모테산도, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1790,7 +1790,7 @@ window.TOKYO_DATA = {
         "패션"
       ],
       "bestFor": "오후",
-      "query": "KITH Treats Tokyo 시부야·하라주쿠 Tokyo Japan"
+      "query": "KITH Treats Tokyo, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1804,7 +1804,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "저녁",
       "note": "예약 확인",
-      "query": "모모파라다이스 시부야센터가이점 시부야·하라주쿠 Tokyo Japan"
+      "query": "모모파라다이스 시부야센터가이점, Tokyo, Japan"
     },
     {
       "area": "시부야·하라주쿠",
@@ -1817,7 +1817,7 @@ window.TOKYO_DATA = {
         "가라아게"
       ],
       "bestFor": "저녁",
-      "query": "Izakaya Masaka 시부야 PARCO 시부야·하라주쿠 Tokyo Japan"
+      "query": "Izakaya Masaka 시부야 PARCO, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1830,7 +1830,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심·저녁",
-      "query": "멘야 무사시 신주쿠 본점 신주쿠 Tokyo Japan"
+      "query": "멘야 무사시 신주쿠 본점, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1844,7 +1844,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "긴 대기 가능",
-      "query": "후운지 신주쿠 Tokyo Japan"
+      "query": "후운지, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1857,7 +1857,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심·저녁",
-      "query": "라멘 하야시다 신주쿠 신주쿠 Tokyo Japan"
+      "query": "라멘 하야시다 신주쿠, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1871,7 +1871,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "예약 권장",
-      "query": "스시 도쿄 텐 신주쿠 NEWoMan 신주쿠 Tokyo Japan"
+      "query": "스시 도쿄 텐 신주쿠 NEWoMan, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1884,7 +1884,7 @@ window.TOKYO_DATA = {
         "일식"
       ],
       "bestFor": "점심·저녁",
-      "query": "츠나하치 신주쿠 총본점 신주쿠 Tokyo Japan"
+      "query": "츠나하치 신주쿠 총본점, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1898,7 +1898,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심",
       "note": "영업시간 확인",
-      "query": "톤친칸 신주쿠 Tokyo Japan"
+      "query": "톤친칸, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1912,7 +1912,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "대기 가능",
-      "query": "규카츠 모토무라 신주쿠 신주쿠 Tokyo Japan"
+      "query": "규카츠 모토무라 신주쿠, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1925,7 +1925,7 @@ window.TOKYO_DATA = {
         "맥주"
       ],
       "bestFor": "저녁",
-      "query": "테판 베이비 신주쿠 신주쿠 Tokyo Japan"
+      "query": "테판 베이비 신주쿠, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1939,7 +1939,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "저녁",
       "note": "예약 권장",
-      "query": "나베조 신주쿠 3초메 신주쿠 Tokyo Japan"
+      "query": "나베조 신주쿠 3초메, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1952,7 +1952,7 @@ window.TOKYO_DATA = {
         "그룹"
       ],
       "bestFor": "저녁",
-      "query": "모모파라다이스 신주쿠 히가시구치 신주쿠 Tokyo Japan"
+      "query": "모모파라다이스 신주쿠 히가시구치, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1965,7 +1965,7 @@ window.TOKYO_DATA = {
         "골목"
       ],
       "bestFor": "저녁",
-      "query": "오모이데요코초 야키토리 골목 신주쿠 Tokyo Japan"
+      "query": "오모이데요코초 야키토리 골목, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1978,7 +1978,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오후",
-      "query": "크레프리 알시온 신주쿠 신주쿠 Tokyo Japan"
+      "query": "크레프리 알시온 신주쿠, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -1991,7 +1991,7 @@ window.TOKYO_DATA = {
         "서점"
       ],
       "bestFor": "점심·오후",
-      "query": "브루클린 파러 신주쿠 신주쿠 Tokyo Japan"
+      "query": "브루클린 파러 신주쿠, Tokyo, Japan"
     },
     {
       "area": "신주쿠",
@@ -2004,7 +2004,7 @@ window.TOKYO_DATA = {
         "팬케이크"
       ],
       "bestFor": "아침·점심",
-      "query": "Sarabeth’s 신주쿠 신주쿠 Tokyo Japan"
+      "query": "Sarabeth’s 신주쿠, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2018,7 +2018,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "대기 가능",
-      "query": "로쿠린샤 도쿄역 도쿄역·긴자 Tokyo Japan"
+      "query": "로쿠린샤 도쿄역, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2031,7 +2031,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심·저녁",
-      "query": "도쿄역 이카루가 도쿄역·긴자 Tokyo Japan"
+      "query": "도쿄역 이카루가, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2045,7 +2045,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심",
       "note": "대기 가능",
-      "query": "츠지한 니혼바시 본점 도쿄역·긴자 Tokyo Japan"
+      "query": "츠지한 니혼바시 본점, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2059,7 +2059,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심",
       "note": "대기 가능",
-      "query": "카네코 한노스케 니혼바시 도쿄역·긴자 Tokyo Japan"
+      "query": "카네코 한노스케 니혼바시, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2072,7 +2072,7 @@ window.TOKYO_DATA = {
         "세련됨"
       ],
       "bestFor": "점심·저녁",
-      "query": "Ginza Kagari 본점 도쿄역·긴자 Tokyo Japan"
+      "query": "Ginza Kagari 본점, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2086,7 +2086,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심",
       "note": "운영 방식 확인",
-      "query": "Ginza Hachigo 도쿄역·긴자 Tokyo Japan"
+      "query": "Ginza Hachigo, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2100,7 +2100,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "대기 가능",
-      "query": "스시노미도리 긴자 도쿄역·긴자 Tokyo Japan"
+      "query": "스시노미도리 긴자, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2113,7 +2113,7 @@ window.TOKYO_DATA = {
         "24시간계열"
       ],
       "bestFor": "아침~밤",
-      "query": "스시잔마이 쓰키지 본점 도쿄역·긴자 Tokyo Japan"
+      "query": "스시잔마이 쓰키지 본점, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2127,7 +2127,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "아침",
       "note": "시장 휴일 확인",
-      "query": "다이와스시 도요스 도쿄역·긴자 Tokyo Japan"
+      "query": "Daiwa Sushi, Toyosu Market, 6 Chome-5-1 Toyosu, Koto City, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2140,7 +2140,7 @@ window.TOKYO_DATA = {
         "긴자"
       ],
       "bestFor": "점심·저녁",
-      "query": "긴자 바이린 본점 도쿄역·긴자 Tokyo Japan"
+      "query": "긴자 바이린 본점, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2153,7 +2153,7 @@ window.TOKYO_DATA = {
         "노포"
       ],
       "bestFor": "점심·저녁",
-      "query": "나일 레스토랑 도쿄역·긴자 Tokyo Japan"
+      "query": "나일 레스토랑, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2166,7 +2166,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오전·오후",
-      "query": "기무라야 총본점 긴자 도쿄역·긴자 Tokyo Japan"
+      "query": "기무라야 총본점 긴자, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2179,7 +2179,7 @@ window.TOKYO_DATA = {
         "레트로"
       ],
       "bestFor": "오후",
-      "query": "긴자 웨스트 본점 도쿄역·긴자 Tokyo Japan"
+      "query": "긴자 웨스트 본점, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2192,7 +2192,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오후",
-      "query": "HIGASHIYA GINZA 도쿄역·긴자 Tokyo Japan"
+      "query": "HIGASHIYA GINZA, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2205,7 +2205,7 @@ window.TOKYO_DATA = {
         "늦은식사"
       ],
       "bestFor": "저녁~밤",
-      "query": "TsuruTonTan UDON NOODLE Brasserie 긴자 도쿄역·긴자 Tokyo Japan"
+      "query": "TsuruTonTan UDON NOODLE Brasserie 긴자, Tokyo, Japan"
     },
     {
       "area": "도쿄역·긴자",
@@ -2218,7 +2218,7 @@ window.TOKYO_DATA = {
         "역세권"
       ],
       "bestFor": "아침·점심",
-      "query": "Sarabeth’s 도쿄점 도쿄역·긴자 Tokyo Japan"
+      "query": "Sarabeth’s 도쿄점, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2231,7 +2231,7 @@ window.TOKYO_DATA = {
         "아사쿠사"
       ],
       "bestFor": "점심",
-      "query": "나미키 야부소바 아사쿠사·우에노 Tokyo Japan"
+      "query": "나미키 야부소바, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2245,7 +2245,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심",
       "note": "대기 가능",
-      "query": "다이코쿠야 텐푸라 본점 아사쿠사·우에노 Tokyo Japan"
+      "query": "다이코쿠야 텐푸라 본점, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2259,7 +2259,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "예약 권장",
-      "query": "아사쿠사 이마한 국제거리 본점 아사쿠사·우에노 Tokyo Japan"
+      "query": "아사쿠사 이마한 국제거리 본점, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2272,7 +2272,7 @@ window.TOKYO_DATA = {
         "간식"
       ],
       "bestFor": "낮",
-      "query": "아사쿠사 멘치 아사쿠사·우에노 Tokyo Japan"
+      "query": "아사쿠사 멘치, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2286,7 +2286,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전",
       "note": "조기 품절 가능",
-      "query": "카메주 도라야키 아사쿠사·우에노 Tokyo Japan"
+      "query": "카메주 도라야키, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2299,7 +2299,7 @@ window.TOKYO_DATA = {
         "디저트"
       ],
       "bestFor": "오후",
-      "query": "스즈키엔 아사쿠사 아사쿠사·우에노 Tokyo Japan"
+      "query": "스즈키엔 아사쿠사, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2312,7 +2312,7 @@ window.TOKYO_DATA = {
         "노포"
       ],
       "bestFor": "점심·저녁",
-      "query": "벤텐야마 미요시 아사쿠사·우에노 Tokyo Japan"
+      "query": "벤텐야마 미요시, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2325,11 +2325,11 @@ window.TOKYO_DATA = {
         "일식"
       ],
       "bestFor": "점심·저녁",
-      "query": "우나테츠 아사쿠사 아사쿠사·우에노 Tokyo Japan"
+      "query": "우나테츠 아사쿠사, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
-      "name": "야부소바 우에노 계열",
+      "name": "우에노 야부소바",
       "priority": "간단식",
       "desc": "도쿄에서 여행객과 현지 미식 가이드에서 자주 언급되는 식사 후보로, 일정에 맞춰 골라보기 좋은 곳입니다.",
       "tags": [
@@ -2339,7 +2339,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심",
       "note": "지점 확인",
-      "query": "야부소바 우에노 계열 아사쿠사·우에노 Tokyo Japan"
+      "query": "Ueno Yabu Soba, 6-9-16 Ueno, Taito City, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2352,7 +2352,7 @@ window.TOKYO_DATA = {
         "노포"
       ],
       "bestFor": "점심·저녁",
-      "query": "이즈에이 우메카와테이 아사쿠사·우에노 Tokyo Japan"
+      "query": "이즈에이 우메카와테이, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2365,7 +2365,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오후",
-      "query": "미하시아 우에노 본점 아사쿠사·우에노 Tokyo Japan"
+      "query": "미하시아 우에노 본점, Tokyo, Japan"
     },
     {
       "area": "아사쿠사·우에노",
@@ -2379,7 +2379,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오전~오후",
       "note": "조기 품절 가능",
-      "query": "우사기야 우에노 아사쿠사·우에노 Tokyo Japan"
+      "query": "우사기야 우에노, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2392,7 +2392,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심·저녁",
-      "query": "AFURI 아자부주반 롯폰기·아자부 Tokyo Japan"
+      "query": "AFURI 아자부주반, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2405,7 +2405,7 @@ window.TOKYO_DATA = {
         "그룹"
       ],
       "bestFor": "저녁~밤",
-      "query": "츠루톤탄 롯폰기 롯폰기·아자부 Tokyo Japan"
+      "query": "츠루톤탄 롯폰기, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2419,7 +2419,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "저녁",
       "note": "예약 권장",
-      "query": "곤파치 니시아자부 롯폰기·아자부 Tokyo Japan"
+      "query": "곤파치 니시아자부, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2433,7 +2433,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "예약 권장",
-      "query": "Nodaiwa Azabu Iikura Honten 롯폰기·아자부 Tokyo Japan"
+      "query": "Nodaiwa Azabu Iikura Honten, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2447,7 +2447,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "저녁",
       "note": "예약 필수",
-      "query": "Ise Sueyoshi 롯폰기·아자부 Tokyo Japan"
+      "query": "Ise Sueyoshi, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2461,7 +2461,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "예약 조건 확인",
-      "query": "Sukiyabashi Jiro Roppongi 롯폰기·아자부 Tokyo Japan"
+      "query": "Sukiyabashi Jiro Roppongi, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2474,7 +2474,7 @@ window.TOKYO_DATA = {
         "일식"
       ],
       "bestFor": "점심·저녁",
-      "query": "Butagumi 롯폰기·아자부 Tokyo Japan"
+      "query": "Butagumi, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2487,7 +2487,7 @@ window.TOKYO_DATA = {
         "캐주얼"
       ],
       "bestFor": "저녁",
-      "query": "Pizza Strada 롯폰기·아자부 Tokyo Japan"
+      "query": "Pizza Strada, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2500,11 +2500,11 @@ window.TOKYO_DATA = {
         "화덕"
       ],
       "bestFor": "점심·저녁",
-      "query": "Savoy Tomato and Cheese 롯폰기·아자부 Tokyo Japan"
+      "query": "Savoy Tomato and Cheese, Tokyo, Japan"
     },
     {
       "area": "에비스·다이칸야마",
-      "name": "Tsukushiro Ebisu Yokocho",
+      "name": "에비스 요코초",
       "priority": "야간 분위기",
       "desc": "도쿄에서 여행객과 현지 미식 가이드에서 자주 언급되는 식사 후보로, 일정에 맞춰 골라보기 좋은 곳입니다.",
       "tags": [
@@ -2513,7 +2513,7 @@ window.TOKYO_DATA = {
         "술"
       ],
       "bestFor": "저녁~밤",
-      "query": "Tsukushiro Ebisu Yokocho 에비스·다이칸야마 Tokyo Japan"
+      "query": "Ebisu Yokocho, 1-7-4 Ebisu, Shibuya City, Tokyo, Japan"
     },
     {
       "area": "에비스·다이칸야마",
@@ -2526,7 +2526,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심·저녁",
-      "query": "Afuri Ebisu 에비스·다이칸야마 Tokyo Japan"
+      "query": "Afuri Ebisu, Tokyo, Japan"
     },
     {
       "area": "에비스·다이칸야마",
@@ -2540,7 +2540,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "저녁",
       "note": "예약 필수",
-      "query": "Joël Robuchon Yebisu 에비스·다이칸야마 Tokyo Japan"
+      "query": "Joël Robuchon Yebisu, Tokyo, Japan"
     },
     {
       "area": "아키하바라·이케부쿠로",
@@ -2554,7 +2554,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "대기 가능",
-      "query": "규카츠 이치니산 아키하바라 아키하바라·이케부쿠로 Tokyo Japan"
+      "query": "규카츠 이치니산 아키하바라, Tokyo, Japan"
     },
     {
       "area": "아키하바라·이케부쿠로",
@@ -2567,7 +2567,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심·저녁",
-      "query": "멘야 무사시 부진 아키하바라 아키하바라·이케부쿠로 Tokyo Japan"
+      "query": "멘야 무사시 부진 아키하바라, Tokyo, Japan"
     },
     {
       "area": "아키하바라·이케부쿠로",
@@ -2580,11 +2580,11 @@ window.TOKYO_DATA = {
         "노포"
       ],
       "bestFor": "점심·저녁",
-      "query": "큐슈 장가라 아키하바라 아키하바라·이케부쿠로 Tokyo Japan"
+      "query": "큐슈 장가라 아키하바라, Tokyo, Japan"
     },
     {
       "area": "아키하바라·이케부쿠로",
-      "name": "카레노 이치반칸 아키하바라",
+      "name": "카레노 시민 알바 아키하바라 본점",
       "priority": "가성비",
       "desc": "도쿄에서 여행객과 현지 미식 가이드에서 자주 언급되는 식사 후보로, 일정에 맞춰 골라보기 좋은 곳입니다.",
       "tags": [
@@ -2593,7 +2593,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심",
-      "query": "카레노 이치반칸 아키하바라 아키하바라·이케부쿠로 Tokyo Japan"
+      "query": "Curry no Shimin Alba Akihabara, 3-2-9 Sotokanda, Chiyoda City, Tokyo, Japan"
     },
     {
       "area": "아키하바라·이케부쿠로",
@@ -2607,11 +2607,11 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "긴 대기 가능",
-      "query": "무테키야 이케부쿠로 아키하바라·이케부쿠로 Tokyo Japan"
+      "query": "무테키야 이케부쿠로, Tokyo, Japan"
     },
     {
       "area": "아키하바라·이케부쿠로",
-      "name": "멘소보 무테키야 주변 라멘거리",
+      "name": "멘도코로 하나다 이케부쿠로점",
       "priority": "라멘 탐방",
       "desc": "도쿄에서 여행객과 현지 미식 가이드에서 자주 언급되는 식사 후보로, 일정에 맞춰 골라보기 좋은 곳입니다.",
       "tags": [
@@ -2620,11 +2620,11 @@ window.TOKYO_DATA = {
         "선택지"
       ],
       "bestFor": "저녁",
-      "query": "멘소보 무테키야 주변 라멘거리 아키하바라·이케부쿠로 Tokyo Japan"
+      "query": "Mendokoro Hanada Ikebukuro, 1-23-8 Higashi-Ikebukuro, Toshima City, Tokyo, Japan"
     },
     {
       "area": "아키하바라·이케부쿠로",
-      "name": "Kikanbo 이케부쿠로",
+      "name": "카라시비 미소라멘 키칸보 이케부쿠로점",
       "priority": "매운맛",
       "desc": "도쿄에서 여행객과 현지 미식 가이드에서 자주 언급되는 식사 후보로, 일정에 맞춰 골라보기 좋은 곳입니다.",
       "tags": [
@@ -2633,7 +2633,7 @@ window.TOKYO_DATA = {
         "혼밥"
       ],
       "bestFor": "점심·저녁",
-      "query": "Kikanbo 이케부쿠로 아키하바라·이케부쿠로 Tokyo Japan"
+      "query": "Kikanbo Ikebukuro, 1-13-14 Higashi-Ikebukuro, Toshima City, Tokyo, Japan"
     },
     {
       "area": "아키하바라·이케부쿠로",
@@ -2646,11 +2646,11 @@ window.TOKYO_DATA = {
         "가성비"
       ],
       "bestFor": "점심·저녁",
-      "query": "키친 ABC 이케부쿠로 아키하바라·이케부쿠로 Tokyo Japan"
+      "query": "키친 ABC 이케부쿠로, Tokyo, Japan"
     },
     {
       "area": "나카노",
-      "name": "하야시야 나카노",
+      "name": "하야시야 나카노소",
       "priority": "로컬 추천",
       "desc": "도쿄에서 여행객과 현지 미식 가이드에서 자주 언급되는 식사 후보로, 일정에 맞춰 골라보기 좋은 곳입니다.",
       "tags": [
@@ -2659,11 +2659,11 @@ window.TOKYO_DATA = {
         "카레"
       ],
       "bestFor": "점심",
-      "query": "하야시야 나카노 나카노 Tokyo Japan"
+      "query": "Hayashiya Nakano-so, 5-55-15 Nakano, Nakano City, Tokyo, Japan"
     },
     {
       "area": "나카노",
-      "name": "츠케멘 에나미 나카노 계열",
+      "name": "니다이메 엔지 나카노",
       "priority": "라멘 탐방",
       "desc": "도쿄에서 여행객과 현지 미식 가이드에서 자주 언급되는 식사 후보로, 일정에 맞춰 골라보기 좋은 곳입니다.",
       "tags": [
@@ -2673,7 +2673,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "지점 확인",
-      "query": "츠케멘 에나미 나카노 계열 나카노 Tokyo Japan"
+      "query": "Nidaime Enji Nakano, 5-62-7 Nakano, Nakano City, Tokyo, Japan"
     },
     {
       "area": "키치조지·미타카",
@@ -2687,7 +2687,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "낮",
       "note": "대기 가능",
-      "query": "사토우 키치조지 멘치카츠 키치조지·미타카 Tokyo Japan"
+      "query": "사토우 키치조지 멘치카츠, Tokyo, Japan"
     },
     {
       "area": "키치조지·미타카",
@@ -2700,7 +2700,7 @@ window.TOKYO_DATA = {
         "브런치"
       ],
       "bestFor": "점심",
-      "query": "카페 리고렛토 키치조지 키치조지·미타카 Tokyo Japan"
+      "query": "카페 리고렛토 키치조지, Tokyo, Japan"
     },
     {
       "area": "키치조지·미타카",
@@ -2713,7 +2713,7 @@ window.TOKYO_DATA = {
         "이노카시라공원"
       ],
       "bestFor": "저녁",
-      "query": "Iseya 키치조지 키치조지·미타카 Tokyo Japan"
+      "query": "Iseya 키치조지, Tokyo, Japan"
     },
     {
       "area": "키치조지·미타카",
@@ -2726,7 +2726,7 @@ window.TOKYO_DATA = {
         "로컬"
       ],
       "bestFor": "저녁",
-      "query": "Kichijoji Harmonica Yokocho 키치조지·미타카 Tokyo Japan"
+      "query": "Kichijoji Harmonica Yokocho, Tokyo, Japan"
     },
     {
       "area": "시모키타자와",
@@ -2740,7 +2740,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "오후",
       "note": "품절 가능",
-      "query": "시로히게 슈크림 공방 시모키타자와 Tokyo Japan"
+      "query": "시로히게 슈크림 공방, Tokyo, Japan"
     },
     {
       "area": "시모키타자와",
@@ -2753,7 +2753,7 @@ window.TOKYO_DATA = {
         "카레"
       ],
       "bestFor": "점심·저녁",
-      "query": "Rojiura Curry SAMURAI 시모키타자와 시모키타자와 Tokyo Japan"
+      "query": "Rojiura Curry SAMURAI 시모키타자와, Tokyo, Japan"
     },
     {
       "area": "시모키타자와",
@@ -2766,7 +2766,7 @@ window.TOKYO_DATA = {
         "이색"
       ],
       "bestFor": "점심·저녁",
-      "query": "Magic Spice 시모키타자와 시모키타자와 Tokyo Japan"
+      "query": "Magic Spice 시모키타자와, Tokyo, Japan"
     },
     {
       "area": "시모키타자와",
@@ -2779,7 +2779,7 @@ window.TOKYO_DATA = {
         "로스터리"
       ],
       "bestFor": "오후",
-      "query": "베어폰드 에스프레소 시모키타자와 Tokyo Japan"
+      "query": "베어폰드 에스프레소, Tokyo, Japan"
     },
     {
       "area": "요요기·토미가야",
@@ -2792,7 +2792,7 @@ window.TOKYO_DATA = {
         "북유럽"
       ],
       "bestFor": "오전~밤",
-      "query": "Fuglen Tokyo 요요기·토미가야 Tokyo Japan"
+      "query": "Fuglen Tokyo, Tokyo, Japan"
     },
     {
       "area": "요요기·토미가야",
@@ -2806,7 +2806,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "아침·점심",
       "note": "대기 가능",
-      "query": "Path Yoyogi Park 요요기·토미가야 Tokyo Japan"
+      "query": "Path Yoyogi Park, Tokyo, Japan"
     },
     {
       "area": "기요스미시라카와",
@@ -2819,7 +2819,7 @@ window.TOKYO_DATA = {
         "카페"
       ],
       "bestFor": "오전~오후",
-      "query": "Blue Bottle Coffee 기요스미시라카와 플래그십 기요스미시라카와 Tokyo Japan"
+      "query": "Blue Bottle Coffee 기요스미시라카와 플래그십, Tokyo, Japan"
     },
     {
       "area": "기요스미시라카와",
@@ -2832,7 +2832,7 @@ window.TOKYO_DATA = {
         "창고"
       ],
       "bestFor": "오전~오후",
-      "query": "Allpress Espresso Tokyo Roastery 기요스미시라카와 Tokyo Japan"
+      "query": "Allpress Espresso Tokyo Roastery, Tokyo, Japan"
     },
     {
       "area": "기요스미시라카와",
@@ -2845,7 +2845,7 @@ window.TOKYO_DATA = {
         "로컬"
       ],
       "bestFor": "오전~오후",
-      "query": "ARiSE Coffee Roasters 기요스미시라카와 Tokyo Japan"
+      "query": "ARiSE Coffee Roasters, Tokyo, Japan"
     },
     {
       "area": "야나카·네즈·센다기",
@@ -2858,7 +2858,7 @@ window.TOKYO_DATA = {
         "정원"
       ],
       "bestFor": "점심·저녁",
-      "query": "Nezu Kamachiku 야나카·네즈·센다기 Tokyo Japan"
+      "query": "Nezu Kamachiku, Tokyo, Japan"
     },
     {
       "area": "야나카·네즈·센다기",
@@ -2871,7 +2871,7 @@ window.TOKYO_DATA = {
         "토스트"
       ],
       "bestFor": "아침·오후",
-      "query": "Kayaba Coffee 야나카·네즈·센다기 Tokyo Japan"
+      "query": "Kayaba Coffee, Tokyo, Japan"
     },
     {
       "area": "야나카·네즈·센다기",
@@ -2884,7 +2884,7 @@ window.TOKYO_DATA = {
         "일식"
       ],
       "bestFor": "점심·저녁",
-      "query": "Hantei Nezu 야나카·네즈·센다기 Tokyo Japan"
+      "query": "Hantei Nezu, Tokyo, Japan"
     },
     {
       "area": "칸다·진보초",
@@ -2898,7 +2898,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "대기 가능",
-      "query": "Ponchi-ken 칸다·진보초 Tokyo Japan"
+      "query": "Ponchi-ken, Tokyo, Japan"
     },
     {
       "area": "칸다·진보초",
@@ -2911,7 +2911,7 @@ window.TOKYO_DATA = {
         "전통"
       ],
       "bestFor": "점심·저녁",
-      "query": "Kanda Matsuya 칸다·진보초 Tokyo Japan"
+      "query": "Kanda Matsuya, Tokyo, Japan"
     },
     {
       "area": "칸다·진보초",
@@ -2924,7 +2924,7 @@ window.TOKYO_DATA = {
         "노포"
       ],
       "bestFor": "점심·저녁",
-      "query": "Bondy 진보초 칸다·진보초 Tokyo Japan"
+      "query": "Bondy 진보초, Tokyo, Japan"
     },
     {
       "area": "칸다·진보초",
@@ -2938,7 +2938,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심",
       "note": "영업시간 확인",
-      "query": "Maruka 우동 칸다·진보초 Tokyo Japan"
+      "query": "Maruka 우동, Tokyo, Japan"
     },
     {
       "area": "롯폰기·아자부",
@@ -2952,7 +2952,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "점심·저녁",
       "note": "예약 권장",
-      "query": "L’Atelier de Joël Robuchon 롯폰기 롯폰기·아자부 Tokyo Japan"
+      "query": "L’Atelier de Joël Robuchon 롯폰기, Tokyo, Japan"
     },
     {
       "area": "진구마에·아오야마",
@@ -2966,7 +2966,7 @@ window.TOKYO_DATA = {
       ],
       "bestFor": "저녁",
       "note": "예약 매우 어려움",
-      "query": "Den 진구마에·아오야마 Tokyo Japan"
+      "query": "Den, Tokyo, Japan"
     }
   ]
 };

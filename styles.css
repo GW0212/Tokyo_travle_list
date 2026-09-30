@@ -17,3 +17,82 @@
 .category-section, .type-section, .category-filter-section, .filters-section, .filter-area {
   margin-top: 0 !important;
 }
+
+/* === Mobile UX hardening (2026-09-30) === */
+html,body{max-width:100%;overflow-x:hidden}
+button,input,a{touch-action:manipulation}
+.main-tab,.category-btn,.filter,.map-link,.place-card{min-height:44px}
+.search input{min-width:0;font-size:16px}
+.map-wrap{position:relative;isolation:isolate}
+.map-wrap iframe{display:block;min-width:100%;background:#eef1f5}
+
+@media(max-width:960px){
+  .topbar .hero{min-height:auto;padding:24px 0 18px}
+  .hero-copy{max-width:620px}
+  .main-tabs{position:static!important;top:auto!important;margin:18px auto 22px!important;min-height:0!important}
+  .workspace{display:flex;flex-direction:column;gap:14px}
+  .list-panel,.map-panel{width:100%;min-width:0}
+  .map-panel{order:2;position:static!important;top:auto!important}
+  .map-head{padding:18px 16px 14px;gap:12px}
+  .map-head>div{padding-left:0!important;width:100%;min-width:0}
+  .map-head h2{font-size:21px;overflow-wrap:anywhere}
+  .map-head p{overflow-wrap:anywhere}
+  .map-link{width:100%;display:flex;align-items:center;justify-content:center}
+  .map-wrap{height:auto;aspect-ratio:4/3;min-height:320px;max-height:520px}
+  .selected-card{padding:16px 16px 18px}
+  .panel-head{padding-top:20px}
+}
+
+@media(max-width:620px){
+  body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}
+  .shell{width:calc(100% - 16px)}
+  .topbar{background:#fff}
+  .hero{padding:20px 6px 16px!important}
+  .eyebrow{font-size:10px;letter-spacing:.13em}
+  .hero h1{font-size:26px;line-height:1.18;margin:7px 0 8px}
+  .hero p{font-size:12px;line-height:1.6;max-width:92%}
+  .hero-stats{margin-top:12px;gap:6px}
+  .hero-stats span{padding:6px 9px;font-size:10px}
+
+  .main-tabs{display:grid;grid-template-columns:1fr 1fr;gap:6px;width:100%;padding:6px;border-radius:14px;margin:14px auto 18px!important;box-shadow:none}
+  .main-tab{width:100%;padding:11px 7px;font-size:12px;line-height:1.25;white-space:normal}
+  .main-tab span{display:inline;font-size:10px}
+
+  .category-box{margin-bottom:12px;border-radius:15px;padding:12px 9px 13px}
+  .category-title{margin-bottom:8px}
+  .category-tabs{gap:7px}
+  .category-btn{padding:10px 7px;font-size:12px;border-radius:11px}
+
+  .panel{border-radius:15px;box-shadow:none}
+  .panel-head{padding:16px 13px 9px}
+  .panel-head h2{font-size:19px;margin:5px 0}
+  .panel-head p{font-size:12px;line-height:1.5}
+  .tools{padding:0 10px 10px}
+  .search{height:48px;border-radius:12px;padding:0 12px}
+  .filter-label{margin:11px 0 7px}
+  .filters{gap:6px;padding:1px 1px 4px;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch}
+  .filter{flex:0 0 auto;scroll-snap-align:start;padding:9px 12px}
+  .result-meta{padding:0 12px 9px}
+  .cards{gap:8px;padding:0 8px 10px}
+  .place-card{padding:13px;border-radius:13px}
+  .place-card p{font-size:12px;line-height:1.55;margin:7px 0 8px}
+  .tags{gap:4px}
+  .tag{font-size:10px;padding:4px 6px}
+  .mini{font-size:10px;line-height:1.5}
+
+  .map-head{padding:15px 12px 12px}
+  .map-head h2{font-size:19px}
+  .map-head p{font-size:11px}
+  .map-wrap{aspect-ratio:1/1;min-height:300px;max-height:none}
+  .selected-card{padding:14px 12px 16px}
+  .selected-card p{font-size:12px;line-height:1.6}
+  .footer{padding:20px 4px 28px;font-size:10px;line-height:1.6}
+}
+
+@media(max-width:380px){
+  .shell{width:calc(100% - 12px)}
+  .main-tab{font-size:11px;padding:10px 5px}
+  .category-btn{font-size:11px}
+  .hero h1{font-size:23px}
+  .map-wrap{min-height:280px}
+}
