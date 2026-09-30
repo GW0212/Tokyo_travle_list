@@ -99,12 +99,19 @@ body main > *:has(button) > button, body main > *:has([role="tab"]) { }
     <div class="hero-copy">
       <span class="eyebrow">TOKYO PLACE MAP</span>
       <h1>도쿄 여행지 · 맛집 · 숙소 · 패스 가이드</h1>
-      <p>여행지·맛집·숙소와 도쿄 교통 패스를 한곳에서 비교하고 필요한 정보로 바로 이동하세요.</p>
-      <div class="hero-stats"><span><b id="summaryCount">59</b>개 장소</span><span>여행지 · 맛집 · 숙소 · 패스</span><span>지도 연동</span></div>
+      
+      <div class="hero-stats runtime-only" aria-hidden="true"><span><b id="summaryCount">0</b></span></div>
     </div>
   </div>
 </header>
 <main class="shell">
+
+  <div class="tokyo-visual-strip" aria-hidden="true">
+    <span class="tokyo-word">東京</span>
+    <span class="tokyo-rule"></span>
+    <div class="tokyo-mini-icons"><span>🗼</span><span>🌸</span><span>🚆</span><span>🍜</span><span>🏨</span><span>🎫</span></div>
+  </div>
+
   <nav class="main-tabs" aria-label="목록 분류">
     <button class="main-tab active" data-tab="spots">🗼 여행지 리스트 <span id="spotCount"></span></button>
     <button class="main-tab" data-tab="restaurants">🍜 맛집 리스트 <span id="foodCount"></span></button>
@@ -130,8 +137,15 @@ body main > *:has(button) > button, body main > *:has([role="tab"]) { }
       <div class="filter-label">패스 유형</div>
       <div id="passFilters" class="pass-filters"></div>
       <div id="passResultMeta" class="result-meta"></div>
+      <div class="fx-note">원화 환산 기준: 2026-09-30 중간환율 1엔 ≈ 8.65원 · 실제 결제액은 환율/수수료에 따라 달라질 수 있습니다.</div>
     </div>
     <div id="passCards" class="pass-cards"></div>
+  </section>
+
+
+  <section id="regionFilterWide" class="region-filter-wide">
+    <div class="filter-label">지역 필터</div>
+    <div id="filters" class="filters"></div>
   </section>
 
   <section class="workspace">
@@ -143,8 +157,6 @@ body main > *:has(button) > button, body main > *:has([role="tab"]) { }
       </div>
       <div class="tools">
         <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="장소명, 태그 검색"></label>
-        <div class="filter-label">지역 필터</div>
-        <div id="filters" class="filters"></div>
       </div>
       <div id="resultMeta" class="result-meta"></div>
       <div id="cards" class="cards"></div>
@@ -171,6 +183,7 @@ body main > *:has(button) > button, body main > *:has([role="tab"]) { }
     </section>
   </section>
 </main>
+<button id="backToTop" class="back-to-top" type="button" aria-label="최상단으로 이동" title="최상단으로 이동">↑</button>
 <footer class="shell footer">지도는 Google Maps 검색 임베드를 사용합니다. 영업시간·휴무·입장 정책, 숙박 요금·객실 재고, 패스 가격·판매 조건은 이용 전에 각 공식 채널에서 다시 확인하세요.</footer>
 <script src="./data.js"></script>
 <script src="./app.js"></script>

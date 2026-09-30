@@ -3613,7 +3613,8 @@ window.TOKYO_DATA = {
         "메트로+도에이"
       ],
       "infoUrl": "https://www.tokyometro.jp/kr/ticket/travel/index.html",
-      "buyUrl": "https://tokyometrods.triplabo.com/ko/product/prod_agpqggha454y7imf4xqzdrfrc4?utm_campaign=tokyometro_direct_202607&utm_content=no90_tst_exchange_ko&utm_medium=referral&utm_source=tokyo_metro_for_tourist"
+      "buyUrl": "https://tokyometrods.triplabo.com/ko/product/prod_agpqggha454y7imf4xqzdrfrc4?utm_campaign=tokyometro_direct_202607&utm_content=no90_tst_exchange_ko&utm_medium=referral&utm_source=tokyo_metro_for_tourist",
+      "priceKrw": "24시간 약 ₩8,700 · 48시간 약 ₩13,000 · 72시간 약 ₩17,300"
     },
     {
       "group": "도심 교통",
@@ -3630,7 +3631,8 @@ window.TOKYO_DATA = {
         "도쿄메트로"
       ],
       "infoUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
-      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html"
+      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
+      "priceKrw": "성인 약 ₩6,100 · 어린이 약 ₩3,000"
     },
     {
       "group": "도심 교통",
@@ -3646,7 +3648,8 @@ window.TOKYO_DATA = {
         "메트로+도에이"
       ],
       "infoUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
-      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html"
+      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
+      "priceKrw": "성인 약 ₩9,500 · 어린이 약 ₩4,800"
     },
     {
       "group": "도심 교통",
@@ -3663,7 +3666,8 @@ window.TOKYO_DATA = {
         "1일권"
       ],
       "infoUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
-      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html"
+      "buyUrl": "https://www.tokyometro.jp/kr/ticket/1day/index.html",
+      "priceKrw": "성인 약 ₩14,900 · 어린이 약 ₩7,400"
     },
     {
       "group": "도심 교통",
@@ -3680,7 +3684,8 @@ window.TOKYO_DATA = {
         "1일권"
       ],
       "infoUrl": "https://www.jreast.co.jp/en/multi/pass/tokunai_pass.html",
-      "buyUrl": "https://www.jreast.co.jp/en/multi/pass/tokunai_pass.html"
+      "buyUrl": "https://www.jreast.co.jp/en/multi/pass/tokunai_pass.html",
+      "priceKrw": "성인 약 ₩7,500 · 어린이 약 ₩3,700"
     },
     {
       "group": "근교·광역",
@@ -3697,7 +3702,8 @@ window.TOKYO_DATA = {
         "3일"
       ],
       "infoUrl": "https://www.jreast.co.jp/ko/multi/pass/tokyowidepass.html",
-      "buyUrl": "https://www.eki-net.com/jreast-train-reservation/reserve/wb/PurchaseTicketSelect/Index"
+      "buyUrl": "https://www.eki-net.com/jreast-train-reservation/reserve/wb/PurchaseTicketSelect/Index",
+      "priceKrw": "성인 약 ₩138,500 · 어린이 약 ₩69,200"
     },
     {
       "group": "근교·광역",
@@ -3714,12 +3720,13 @@ window.TOKYO_DATA = {
         "광역"
       ],
       "infoUrl": "https://greater-tokyo-pass.jp/en/ticket/",
-      "buyUrl": "https://ars-gtp.triplabo.jp/activity/en/LINKTIVITY-NS6ED"
+      "buyUrl": "https://ars-gtp.triplabo.jp/activity/en/LINKTIVITY-NS6ED",
+      "priceKrw": "성인 약 ₩56,300 · 어린이 약 ₩28,100"
     },
     {
       "group": "공항 연계",
       "name": "Keisei Skyliner & Tokyo Subway Ticket",
-      "price": "스카이라이너 편도/왕복 + 지하철 24·48·72시간 조합별 상이",
+      "price": "성인 조합별 ¥3,100~¥6,100",
       "valid": "지하철권은 첫 사용부터 24 / 48 / 72시간",
       "coverage": "나리타공항↔게이세이우에노 스카이라이너 + 도쿄메트로·도에이 지하철",
       "desc": "나리타공항 이동과 도쿄 지하철 패스를 한 번에 묶은 세트권입니다. 우에노·닛포리 접근이 좋은 숙소라면 특히 편리합니다.",
@@ -3731,7 +3738,8 @@ window.TOKYO_DATA = {
         "지하철"
       ],
       "infoUrl": "https://www.keisei.co.jp/keisei/tetudou/skyliner/kr/tickets/subway.php",
-      "buyUrl": "https://www.keisei.co.jp/keisei/tetudou/skyliner/kr/tickets/subway.php"
+      "buyUrl": "https://www.keisei.co.jp/keisei/tetudou/skyliner/kr/tickets/subway.php",
+      "priceKrw": "성인 조합별 약 약 ₩26,800~약 ₩52,800"
     },
     {
       "group": "공항 연계",
@@ -3748,7 +3756,8 @@ window.TOKYO_DATA = {
         "왕복"
       ],
       "infoUrl": "https://www.jreast.co.jp/ko/multi/pass/nex.html",
-      "buyUrl": "https://www.eki-net.com/jreast-train-reservation/reserve/wb/PurchaseTicketSelect/Index"
+      "buyUrl": "https://www.eki-net.com/jreast-train-reservation/reserve/wb/PurchaseTicketSelect/Index",
+      "priceKrw": "성인 약 ₩45,000 · 어린이 약 ₩22,500"
     },
     {
       "group": "근교·광역",
@@ -3765,7 +3774,140 @@ window.TOKYO_DATA = {
         "1일"
       ],
       "infoUrl": "https://www.jreast.co.jp/multi/ko/pass/nonbiri_pass.html",
-      "buyUrl": "https://www.jreast.co.jp/multi/ko/pass/nonbiri_pass.html"
+      "buyUrl": "https://www.jreast.co.jp/multi/ko/pass/nonbiri_pass.html",
+      "priceKrw": "성인 약 ₩24,700 · 어린이 약 ₩12,300"
+    },
+    {
+      "group": "교통+관광",
+      "name": "Tokyo City Pass",
+      "price": "1일 ¥1,900 (기간 한정) · 통상 ¥2,400 / 2일 ¥2,700 / 3일 ¥3,700",
+      "priceKrw": "1일 약 ₩16,400 (통상 약 ₩20,800) · 2일 약 ₩23,400 · 3일 약 ₩32,000",
+      "valid": "선택한 1·2·3일 + 포함된 지하철권은 24시간 단위",
+      "coverage": "Tokyo Subway Ticket + 문화체험 6곳 + 미식 쿠폰 + 쇼핑·온천 할인, 인기 관광지 옵션 추가 가능",
+      "desc": "도쿄 지하철 이동과 관광·체험·식사를 한 패스에 묶은 종합형 상품입니다. 스카이트리·teamLab·해리포터 스튜디오 등은 별도 옵션으로 추가할 수 있습니다.",
+      "bestFor": "첫 도쿄 여행에서 교통과 체험을 한 번에 정리하고 싶은 일정",
+      "note": "1일 ¥1,900은 2026년 9월 기준 기간 한정 가격이며 종료 시점은 미정입니다. 옵션 관광지는 별도 요금입니다.",
+      "tags": [
+        "교통+관광",
+        "체험",
+        "미식",
+        "지하철"
+      ],
+      "infoUrl": "https://tokyocitypass.com/ko/",
+      "buyUrl": "https://tokyocitypass.com/ko/"
+    },
+    {
+      "group": "관광·문화",
+      "name": "도쿄·뮤지엄 구룻토 패스 2026",
+      "price": "¥2,500",
+      "priceKrw": "약 ₩21,600",
+      "valid": "첫 사용일부터 2개월 (최종 유효기한 2027-03-31)",
+      "coverage": "도쿄 중심 107개 미술관·박물관·동물원·수족관·정원 등의 입장권 또는 할인권",
+      "desc": "미술관과 박물관을 여러 곳 볼 계획이라면 대표적인 문화 관광 패스입니다. 지정 전시·시설은 각 1회 이용할 수 있습니다.",
+      "bestFor": "미술관·박물관·정원 등을 2개월 동안 여러 곳 방문하는 여행",
+      "note": "시설에 따라 무료입장 또는 할인 적용 방식이 다릅니다. 일부 전시는 사전예약이 필요할 수 있습니다.",
+      "tags": [
+        "미술관",
+        "박물관",
+        "문화",
+        "107시설"
+      ],
+      "infoUrl": "https://www.rekibun.or.jp/en/grutto/",
+      "buyUrl": "https://www.rekibun.or.jp/en/grutto/purchase/"
+    },
+    {
+      "group": "교통+관광",
+      "name": "메트로 & 구룻토 패스 2026",
+      "price": "¥3,330",
+      "priceKrw": "약 ₩28,800",
+      "valid": "구룻토 패스 첫 사용부터 2개월 + Metro 24시간권 2장",
+      "coverage": "도쿄·뮤지엄 구룻토 패스 2026 + Tokyo Metro 24-hour Ticket 2장",
+      "desc": "미술관·박물관 관람과 도쿄메트로 이동을 함께 묶은 패키지입니다. 각각 따로 구매하는 것보다 할인된 세트입니다.",
+      "bestFor": "문화시설을 여러 곳 방문하면서 메트로 이동도 많은 여행",
+      "note": "2026년판은 7,000세트 한정이며 매진 시 조기 종료될 수 있습니다.",
+      "tags": [
+        "메트로",
+        "미술관",
+        "박물관",
+        "세트"
+      ],
+      "infoUrl": "https://www.tokyometro.jp/news/2026/223951.html",
+      "buyUrl": "https://www.tokyometro.jp/news/2026/223951.html"
+    },
+    {
+      "group": "교통+관광",
+      "name": "도에이 de 구룻토 패스 2026",
+      "price": "¥3,130",
+      "priceKrw": "약 ₩27,100",
+      "valid": "구룻토 패스 첫 사용부터 2개월 + 도에이 1일권 2장",
+      "coverage": "도쿄·뮤지엄 구룻토 패스 2026 + 도에이 마루고토 킷푸 2장",
+      "desc": "문화시설 이용권에 도에이 지하철·버스·사쿠라트램·닛포리도네리 라이너 1일권 두 장을 묶은 상품입니다.",
+      "bestFor": "도에이 노선 주변 문화시설까지 넓게 둘러보는 일정",
+      "note": "판매 장소가 지정되어 있으므로 공식 페이지에서 취급 역·창구를 확인하세요.",
+      "tags": [
+        "도에이",
+        "문화",
+        "미술관",
+        "버스"
+      ],
+      "infoUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/03/2026032701",
+      "buyUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/03/2026032701"
+    },
+    {
+      "group": "놀이·체험",
+      "name": "Tokyo Dome City All-in-One Play Pass",
+      "price": "성인 평일 ¥6,800 · 주말/공휴일·특정일 ¥7,800",
+      "priceKrw": "성인 평일 약 ₩58,900 · 주말/공휴일·특정일 약 ₩67,500",
+      "valid": "구매한 대상일 1일",
+      "coverage": "도쿄돔시티 어트랙션 무제한 + TeNQ·볼링·롤러스케이트·실내 스포츠 등 대상 시설",
+      "desc": "도쿄돔시티를 하루 종일 여러 시설로 즐기는 종합 놀이 패스입니다. 놀이기구 외에도 스포츠·체험 시설이 포함됩니다.",
+      "bestFor": "친구·커플·가족이 도쿄돔시티에서 하루를 통째로 보내는 일정",
+      "note": "요일·특정일에 따라 가격이 다르며 일부 시설은 이용 조건 또는 횟수 제한이 있습니다.",
+      "tags": [
+        "놀이공원",
+        "스포츠",
+        "실내",
+        "1일"
+      ],
+      "infoUrl": "https://www.tokyo-dome.co.jp/en/passport/",
+      "buyUrl": "https://www.tokyo-dome.co.jp/en/passport/"
+    },
+    {
+      "group": "놀이·체험",
+      "name": "Tokyo Dome City Active Passport",
+      "price": "성인 평일 ¥4,000 · 주말/공휴일·특정일 ¥4,500",
+      "priceKrw": "성인 평일 약 ₩34,600 · 주말/공휴일·특정일 약 ₩38,900",
+      "valid": "구매한 대상일 1일",
+      "coverage": "도쿄돔시티의 지정 액티비티 복수 이용",
+      "desc": "놀이기구 전체보다는 액티비티 중심으로 2개 이상 체험하려는 여행자에게 맞춘 패스입니다.",
+      "bestFor": "도쿄돔시티에서 스포츠·체험 위주로 즐길 때",
+      "note": "학생·어린이 요금과 날짜별 A/B 구분이 별도로 적용됩니다.",
+      "tags": [
+        "액티비티",
+        "스포츠",
+        "체험"
+      ],
+      "infoUrl": "https://www.tokyo-dome.co.jp/en/passport/active/calendar/",
+      "buyUrl": "https://www.tokyo-dome.co.jp/en/passport/"
+    },
+    {
+      "group": "놀이·체험",
+      "name": "TOKYO JOYPOLIS Passport",
+      "price": "성인 ¥6,000 · 어린이(7~17세) ¥5,000",
+      "priceKrw": "성인 약 ₩51,900 · 어린이 약 ₩43,300",
+      "valid": "입장 당일",
+      "coverage": "도쿄 조이폴리스 입장 + 대상 어트랙션 이용",
+      "desc": "오다이바의 실내형 디지털 놀이공원 JOYPOLIS 입장과 어트랙션 이용을 묶은 패스포트입니다.",
+      "bestFor": "비 오는 날·더운 날에도 실내에서 놀이기구와 게임을 즐기고 싶은 일정",
+      "note": "나이트 패스 등 시간대별 별도 상품도 있으며 가격·판매시간이 달라질 수 있습니다.",
+      "tags": [
+        "오다이바",
+        "실내",
+        "게임",
+        "놀이공원"
+      ],
+      "infoUrl": "https://tokyo-joypolis.com/language/english/",
+      "buyUrl": "https://tokyo-joypolis.com/language/english/"
     }
   ]
 };
