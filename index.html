@@ -92,7 +92,6 @@ body main > *:has(button) > button, body main > *:has([role="tab"]) { }
 [role="tablist"]{min-height:72px;display:flex;align-items:center;justify-content:center;}
 </style>
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3yn5S3xkPJYpFQXnqJqN0s8ceoVt4=" crossorigin="">
 </head>
 <body>
 <header class="topbar">
@@ -142,14 +141,14 @@ body main > *:has(button) > button, body main > *:has([role="tab"]) { }
     <section class="panel map-panel">
       <div class="map-head centered-map">
         <div>
-          <span class="map-kicker">VISIBLE PLACES</span>
-          <h2 id="selectedName">현재 목록 전체 지도</h2>
-          <p id="selectedMeta">현재 탭과 필터에 포함된 장소를 모두 표시합니다.</p>
+          <span class="map-kicker">SELECTED PLACE</span>
+          <h2 id="selectedName">센소지·나카미세도리</h2>
+          <p id="selectedMeta">아사쿠사·우에노 · 전통 · 산책 · 기념품</p>
         </div>
-        <a id="openGoogle" class="map-link" target="_blank" rel="noopener">선택 장소 Google 지도 ↗</a>
+        <a id="openGoogle" class="map-link" target="_blank" rel="noopener">Google 지도에서 열기 ↗</a>
       </div>
       <div class="map-wrap">
-        <div id="multiMap" class="multi-map" aria-label="현재 목록의 모든 장소 지도"></div><div id="mapLoading" class="map-loading" hidden>지도 위치를 불러오는 중… <b id="mapLoadCount">0 / 0</b></div>
+        <iframe id="mapFrame" title="선택한 장소 지도" loading="eager" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
       </div>
       <div class="selected-card">
         <div class="selected-top"><span id="selectedPriority" class="badge" hidden></span><span id="selectedBest" class="best"></span></div>
@@ -159,8 +158,7 @@ body main > *:has(button) > button, body main > *:has([role="tab"]) { }
     </section>
   </section>
 </main>
-<footer class="shell footer">지도는 OpenStreetMap 기반으로 현재 필터의 장소를 모두 표시하며, 위치 검색 결과는 실제 장소와 약간의 오차가 있을 수 있습니다. 영업시간·휴무·입장 정책은 방문 전에 공식 채널에서 다시 확인하세요.</footer>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<footer class="shell footer">지도는 Google Maps 검색 임베드를 사용합니다. 영업시간·휴무·입장 정책은 방문 전에 공식 채널에서 다시 확인하세요.</footer>
 <script src="./data.js"></script>
 <script src="./app.js"></script>
 
