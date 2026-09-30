@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#b9134f">
+<title>도쿄 여행지 · 맛집 지도</title>
+<link rel="stylesheet" href="./styles.css">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="favicon-64.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+
+<style id="compact-list-layout-overrides">
+/* 요청 반영: 여행지/맛집 탭 내부의 타이틀·서브타이틀 히어로 영역 제거 */
+.section-hero,
+.list-hero,
+.content-hero,
+.tab-hero,
+.panel-hero,
+.page-intro,
+.list-intro,
+.section-intro,
+[data-section-hero],
+[data-list-hero] {
+  display: none !important;
+}
+
+/* EXPLORE TOKYO, 여행지 리스트/맛집 리스트, 설명문이 들어간 상단 헤더 블록 */
+#placesPanel .eyebrow,
+#foodPanel .eyebrow,
+#placesPanel .section-title,
+#foodPanel .section-title,
+#placesPanel .section-subtitle,
+#foodPanel .section-subtitle,
+#placesPanel .panel-title,
+#foodPanel .panel-title,
+#placesPanel .panel-subtitle,
+#foodPanel .panel-subtitle,
+.places-panel .eyebrow,
+.food-panel .eyebrow,
+.places-panel .section-title,
+.food-panel .section-title,
+.places-panel .section-subtitle,
+.food-panel .section-subtitle {
+  display: none !important;
+}
+
+/* 헤더가 사라진 뒤 여백 제거 */
+#placesPanel,
+#foodPanel,
+.places-panel,
+.food-panel,
+.tab-panel,
+.panel,
+main {
+  padding-top: 0 !important;
+}
+#placesPanel > :first-child,
+#foodPanel > :first-child,
+.places-panel > :first-child,
+.food-panel > :first-child {
+  margin-top: 0 !important;
+}
+.filters,
+.filter-wrap,
+.category-filters,
+.category-bar,
+.toolbar,
+.controls,
+.search-wrap {
+  margin-top: 0 !important;
+}
+
+/* 비어 있는 공백 방지 */
+.hero-spacer,
+.section-spacer,
+.intro-spacer {
+  display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+</style>
+
+
+<style id="tab-spacing-hotfix">
+/* Center the two primary tabs within their empty band */
+body main > *:has(button) > button, body main > *:has([role="tab"]) { }
+[role="tablist"]{margin:18px auto 30px!important;}
+[role="tablist"]{min-height:72px;display:flex;align-items:center;justify-content:center;}
+</style>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3yn5S3xkPJYpFQXnqJqN0s8ceoVt4=" crossorigin="">
+</head>
+<body>
+<header class="topbar">
+  <div class="shell hero">
+    <div class="hero-copy">
+      <span class="eyebrow">TOKYO PLACE MAP</span>
+      <h1>도쿄 여행지 · 맛집 지도</h1>
+      <p>가고 싶은 장소를 카테고리별로 골라보고, 선택한 위치를 지도에서 바로 확인하세요.</p>
+      <div class="hero-stats"><span><b id="summaryCount">59</b>개 장소</span><span>여행지 · 맛집</span><span>지도 연동</span></div>
+    </div>
+  </div>
+</header>
+<main class="shell">
+  <nav class="main-tabs" aria-label="목록 분류">
+    <button class="main-tab active" data-tab="spots">🗼 여행지 리스트 <span id="spotCount"></span></button>
+    <button class="main-tab" data-tab="restaurants">🍜 맛집 리스트 <span id="foodCount"></span></button>
+  </nav>
+
+  <section class="section-intro">
+    <span class="section-kicker">EXPLORE TOKYO</span>
+    <h2 id="pageTitle">여행지 리스트</h2>
+    <p id="pageSub">관광·산책·전망·쇼핑 중 원하는 테마를 고르고 지역까지 좁혀보세요.</p>
+  </section>
+
+  <section id="spotCategoryBox" class="category-box">
+    <div class="category-title">여행지 유형</div>
+    <div id="spotCategories" class="category-tabs" aria-label="여행지 유형"></div>
+  </section>
+
+  <section class="workspace">
+    <aside class="panel list-panel">
+      <div class="panel-head centered">
+        <span class="panel-kicker">PLACE LIST</span>
+        <h2 id="listTitle">🗼 여행지 리스트</h2>
+        <p id="listSub">도쿄에서 많이 찾는 관광·산책·전망·쇼핑 명소</p>
+      </div>
+      <div class="tools">
+        <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="장소명, 태그 검색"></label>
+        <div class="filter-label">지역 필터</div>
+        <div id="filters" class="filters"></div>
+      </div>
+      <div id="resultMeta" class="result-meta"></div>
+      <div id="cards" class="cards"></div>
+      <div id="empty" class="empty" hidden>조건에 맞는 장소가 없습니다.</div>
+    </aside>
+
+    <section class="panel map-panel">
+      <div class="map-head centered-map">
+        <div>
+          <span class="map-kicker">VISIBLE PLACES</span>
+          <h2 id="selectedName">현재 목록 전체 지도</h2>
+          <p id="selectedMeta">현재 탭과 필터에 포함된 장소를 모두 표시합니다.</p>
+        </div>
+        <a id="openGoogle" class="map-link" target="_blank" rel="noopener">선택 장소 Google 지도 ↗</a>
+      </div>
+      <div class="map-wrap">
+        <div id="multiMap" class="multi-map" aria-label="현재 목록의 모든 장소 지도"></div><div id="mapLoading" class="map-loading" hidden>지도 위치를 불러오는 중… <b id="mapLoadCount">0 / 0</b></div>
+      </div>
+      <div class="selected-card">
+        <div class="selected-top"><span id="selectedPriority" class="badge" hidden></span><span id="selectedBest" class="best"></span></div>
+        <p id="selectedDesc"></p>
+        <p id="selectedNote" class="note" hidden></p>
+      </div>
+    </section>
+  </section>
+</main>
+<footer class="shell footer">지도는 OpenStreetMap 기반으로 현재 필터의 장소를 모두 표시하며, 위치 검색 결과는 실제 장소와 약간의 오차가 있을 수 있습니다. 영업시간·휴무·입장 정책은 방문 전에 공식 채널에서 다시 확인하세요.</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="./data.js"></script>
+<script src="./app.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const phrases = [
+    'EXPLORE TOKYO',
+    '관광 · 산책 · 전망 · 쇼핑 중 원하는 테마를 고르고 지역까지 좁혀보세요.',
+    '지역과 검색을 조합해 도쿄에서 먹고 싶은 메뉴를 빠르게 찾아보세요.'
+  ];
+  const titlePhrases = ['여행지 리스트', '맛집 리스트'];
+
+  const hideHeaderBlock = (el) => {
+    if (!el) return;
+    let node = el;
+    for (let i = 0; i < 4 && node; i++, node = node.parentElement) {
+      const txt = (node.innerText || '').trim();
+      if (txt.length && txt.length < 220 &&
+          (txt.includes('EXPLORE TOKYO') ||
+           txt.includes('관광 · 산책 · 전망 · 쇼핑') ||
+           txt.includes('도쿄에서 먹고 싶은 메뉴'))) {
+        node.style.display = 'none';
+        return;
+      }
+    }
+    el.style.display = 'none';
+  };
+
+  document.querySelectorAll('body *').forEach(el => {
+    if (el.children.length) return;
+    const t = (el.textContent || '').trim();
+    if (phrases.includes(t)) hideHeaderBlock(el);
+  });
+
+  // 타이틀은 해당 소개 블록 내부에 있을 때만 제거하고, 상단 메인 탭 버튼 텍스트는 유지
+  document.querySelectorAll('h1,h2,h3,h4,p,span,div').forEach(el => {
+    const t = (el.textContent || '').trim();
+    if (!titlePhrases.includes(t)) return;
+    const cls = (el.className || '').toString().toLowerCase();
+    if (cls.includes('tab') || el.closest('button,[role="tab"],nav')) return;
+    const parentText = (el.parentElement?.innerText || '');
+    if (parentText.includes('EXPLORE TOKYO') ||
+        parentText.includes('관광 · 산책 · 전망 · 쇼핑') ||
+        parentText.includes('도쿄에서 먹고 싶은 메뉴')) {
+      hideHeaderBlock(el);
+    }
+  });
+});
+</script>
+
+</body>
+</html>
